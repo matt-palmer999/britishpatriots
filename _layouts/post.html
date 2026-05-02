@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<div class="container">
+  <div style="max-width:720px;margin:40px auto;">
+    <span class="label">{{ page.category }}</span>
+    <h2 style="font-family:'Playfair Display',serif;font-weight:900;font-size:clamp(26px,5vw,42px);line-height:1.1;margin-bottom:14px;letter-spacing:-.5px;">{{ page.title }}</h2>
+    <div style="font-size:17px;font-weight:500;font-style:italic;color:#444;line-height:1.5;border-left:4px solid var(--red);padding-left:14px;margin-bottom:18px;">{{ page.standfirst }}</div>
+    <div style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);text-transform:uppercase;letter-spacing:.06em;padding-bottom:18px;border-bottom:2px solid var(--black);margin-bottom:26px;">
+      By {{ page.author | default: "Our Correspondent" }} &middot; {{ page.date | date: "%d %B %Y" }} &middot; {{ page.category }}
+    </div>
+    <div style="font-size:17px;line-height:1.75;color:#222;">{{ content }}</div>
+    {% if page.footnote %}
+    <div style="border-top:2px solid #D0C8BE;margin-top:36px;padding-top:14px;font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);font-style:italic;">{{ page.footnote }}</div>
+    {% endif %}
+    <div style="background:white;border:1px solid #D0C8BE;border-top:3px solid var(--black);padding:20px;margin-top:40px;">
+      <div style="font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:var(--mid-grey);margin-bottom:14px;">More Stories</div>
+      {% for post in site.posts limit:3 %}{% unless post.url == page.url %}
+      <div style="padding:10px 0;border-bottom:1px solid #D0C8BE;">
+        <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin-bottom:3px;">{{ post.category }}</div>
+        <a href="{{ post.url }}" style="font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--black);text-decoration:none;">{{ post.title }}</a>
+      </div>
+      {% endunless %}{% endfor %}
+    </div>
+  </div>
+</div>
