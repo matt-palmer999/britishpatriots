@@ -4,6 +4,7 @@ title: "EU Directive Forces British Sandwich Makers To Include Minimum 30% Conti
 standfirst: "Brexit was supposed to protect the sandwich. It did not protect the sandwich."
 category: EU Madness
 author: Our Brussels Correspondent
+image: /assets/images/sandwich.jpg
 footnote: "Directive 2026/1147/EU is available in full on the European Commission website. It is 340 pages long. Page 287 contains a footnote about triangular versus rectangular cutting that we are still processing."
 ---
 
@@ -19,7 +20,7 @@ British sandwich manufacturers, who export approximately £340 million of sandwi
 
 It does. It applies to meal deals.
 
-Terry Hodgson, 58, operations director at a Swindon-based sandwich manufacturer who asked that his company not be named for fear of EU regulatory scrutiny, told The British Patriot he was at a loss. "We've been making the same egg and cress sandwich since 1987," he said. "Now I'm being told it needs to be thirty percent brie. I don't even know what that means volumetrically."
+Terry Hodgson, 58, operations director at a Swindon-based sandwich manufacturer who asked that his company not be named for fear of EU regulatory scrutiny, told The Daily Patriot he was at a loss. "We've been making the same egg and cress sandwich since 1987," he said. "Now I'm being told it needs to be thirty percent brie. I don't even know what that means volumetrically."
 
 The directive does not specify brie. It does, however, list camembert, manchego, prosciutto, and something called "regional olive preparation" as compliant fillings, alongside a sixteen-page appendix defining the precise moisture content required for a filling to qualify as continental under the terms of the legislation.
 
@@ -39,4 +40,4 @@ The British Gammon Society, which describes itself as "the foremost organisation
 
 The Society has called for a national day of sandwich solidarity on 23rd April, St George's Day, and is asking members to eat a BLT publicly and "look a continental cheese in the eye while doing so."
 
-Nigel Farage was unavailable for comment, which his office confirmed was because he was having lunch. The contents of that lunch are not known at this time. The British Patriot has submitted a freedom of information request. We will report back.
+Nigel Farage was unavailable for comment, which his office confirmed was because he was having lunch. The contents of that lunch are not known at this time. The Daily Patriot has submitted a freedom of information request. We will report back.
