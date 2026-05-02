@@ -1,7 +1,7 @@
-title: The British Patriot
-description: Telling It Like It Is. When Nobody Else Will. For Britain.
+title: The Daily Patriot
+description: British News. Patriotic Voice.
 baseurl: ""
-url: "https://britishpatriots.co.uk"
+url: "https://dailypatriot.co.uk"
 
 plugins:
   - jekyll-feed
