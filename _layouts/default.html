@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-<link rel="icon" type="image/png" href="/assets/images/logo.png">
+<link rel="icon" type="image/png" href="/assets/images/logo-clean.png">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Barlow+Condensed:wght@400;600;700;800&family=Barlow:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{--red:#CC0000;--navy:#0d1f3c;--gold:#B8860B;--gold-light:#D4A843;--black:#0a0a0a;--off-white:#F5F2ED;--border:#D0C8BE;--text:#1a1a1a;--mid-grey:#888;}
@@ -14,13 +14,14 @@ body{font-family:'Barlow',sans-serif;background:var(--off-white);color:var(--tex
 .top-bar{background:#080f1e;color:#555;font-family:'Barlow Condensed',sans-serif;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:5px 20px;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #1a2a4a;}
 .top-bar a{color:#555;text-decoration:none;margin:0 8px;}
 .top-bar a:hover{color:var(--gold-light);}
-.masthead{background:var(--navy);padding:20px;text-align:center;border-bottom:3px solid var(--gold-light);}
-.masthead-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:center;gap:20px;}
-.masthead-badge-wrap{width:120px;height:120px;border-radius:50%;overflow:hidden;flex-shrink:0;background:#0d1f3c;display:flex;align-items:center;justify-content:center;}.masthead-badge{width:150%;height:150%;object-fit:contain;}
+.masthead{position:relative;background:var(--navy);border-bottom:3px solid var(--gold-light);overflow:hidden;height:140px;}
+.masthead-bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;opacity:0.35;}
+.masthead-inner{position:relative;z-index:2;max-width:1200px;margin:0 auto;height:100%;display:flex;align-items:center;justify-content:center;gap:24px;padding:0 20px;}
+.masthead-badge{width:110px;height:110px;object-fit:contain;flex-shrink:0;}
 .masthead-text{text-align:left;}
-.masthead-title{font-family:'Playfair Display',serif;font-weight:900;font-size:clamp(28px,5vw,56px);color:white;letter-spacing:-1px;line-height:1;text-shadow:0 2px 8px rgba(0,0,0,0.4);}
+.masthead-title{font-family:'Playfair Display',serif;font-weight:900;font-size:clamp(32px,5vw,58px);color:white;letter-spacing:-1px;line-height:1;text-shadow:0 2px 12px rgba(0,0,0,0.6);}
 .masthead-title span{color:var(--gold-light);}
-.masthead-strapline{font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:700;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-light);margin-top:5px;opacity:0.85;}
+.masthead-strapline{font-family:'Barlow Condensed',sans-serif;font-size:12px;font-weight:700;letter-spacing:.25em;text-transform:uppercase;color:var(--gold-light);margin-top:6px;opacity:0.9;}
 .gold-rule{height:2px;background:linear-gradient(90deg,transparent,var(--gold-light),var(--gold),var(--gold-light),transparent);}
 nav{background:#080f1e;border-bottom:3px solid var(--gold-light);}
 nav ul{max-width:1200px;margin:0 auto;padding:0 20px;list-style:none;display:flex;overflow-x:auto;}
@@ -29,16 +30,17 @@ nav ul li a:hover{color:var(--gold-light);background:#0d1f3c;}
 .container{max-width:1200px;margin:0 auto;padding:20px;}
 .label{display:inline-block;background:var(--navy);color:var(--gold-light);font-family:'Barlow Condensed',sans-serif;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:3px 8px;margin-bottom:8px;border:1px solid var(--gold-light);}
 footer{background:#080f1e;color:#444;padding:30px 20px;text-align:center;font-family:'Barlow Condensed',sans-serif;font-size:12px;margin-top:40px;border-top:3px solid var(--gold-light);}
-footer img{height:50px;width:auto;display:block;margin:0 auto 10px;}
+footer img{height:60px;width:auto;display:block;margin:0 auto 10px;}
 footer .footer-name{font-family:'Playfair Display',serif;font-size:18px;font-weight:900;color:var(--gold-light);margin-bottom:4px;}
 footer .footer-strapline{font-size:11px;color:#555;letter-spacing:.15em;text-transform:uppercase;margin-bottom:12px;}
 footer a{color:#444;text-decoration:none;margin:0 8px;}
 footer a:hover{color:var(--gold-light);}
 .satire-notice{margin-top:14px;padding-top:14px;border-top:1px solid #111;font-size:11px;color:#333;max-width:560px;margin-left:auto;margin-right:auto;line-height:1.5;}
 @media(max-width:600px){
-  .masthead-badge-wrap{width:80px;height:80px;}
-  .masthead-title{font-size:26px;}
-  .masthead-strapline{font-size:9px;letter-spacing:.15em;}
+  .masthead{height:100px;}
+  .masthead-badge{width:70px;height:70px;}
+  .masthead-title{font-size:28px;}
+  .masthead-strapline{font-size:10px;letter-spacing:.15em;}
 }
 </style>
 </head>
@@ -50,8 +52,9 @@ footer a:hover{color:var(--gold-light);}
 </div>
 
 <div class="masthead">
+  <img src="/assets/images/social-header.png" alt="" class="masthead-bg">
   <div class="masthead-inner">
-    <div class="masthead-badge-wrap"><img src="/assets/images/logo.png" alt="The Daily Patriot" class="masthead-badge"></div>
+    <img src="/assets/images/logo-clean.png" alt="The Daily Patriot" class="masthead-badge">
     <div class="masthead-text">
       <div class="masthead-title">The <span>Daily</span> Patriot</div>
       <div class="masthead-strapline">British News &middot; Patriotic Voice</div>
@@ -77,7 +80,7 @@ footer a:hover{color:var(--gold-light);}
 {{ content }}
 
 <footer>
-  <img src="/assets/images/logo.png" alt="The Daily Patriot">
+  <img src="/assets/images/logo-clean.png" alt="The Daily Patriot">
   <div class="footer-name">The Daily Patriot</div>
   <div class="footer-strapline">British News &middot; Patriotic Voice</div>
   <div><a href="/">Home</a><a href="/about">About</a><a href="/privacy">Privacy</a></div>
