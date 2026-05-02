@@ -2,25 +2,50 @@
 layout: default
 ---
 <div class="container">
-  <div style="max-width:720px;margin:40px auto;">
+  <div class="article-wrap">
     <span class="label">{{ page.category }}</span>
-    <h2 style="font-family:'Playfair Display',serif;font-weight:900;font-size:clamp(26px,5vw,42px);line-height:1.1;margin-bottom:14px;letter-spacing:-.5px;">{{ page.title }}</h2>
-    <div style="font-size:17px;font-weight:500;font-style:italic;color:#444;line-height:1.5;border-left:4px solid var(--red);padding-left:14px;margin-bottom:18px;">{{ page.standfirst }}</div>
-    <div style="font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);text-transform:uppercase;letter-spacing:.06em;padding-bottom:18px;border-bottom:2px solid var(--black);margin-bottom:26px;">
+    <h2 class="post-headline">{{ page.title }}</h2>
+    <div class="post-standfirst">{{ page.standfirst }}</div>
+    <div class="post-meta">
       By {{ page.author | default: "Our Correspondent" }} &middot; {{ page.date | date: "%d %B %Y" }} &middot; {{ page.category }}
     </div>
-    <div style="font-size:17px;line-height:1.75;color:#222;">{{ content }}</div>
+    <div class="post-body">
+      {{ content }}
+    </div>
     {% if page.footnote %}
-    <div style="border-top:2px solid #D0C8BE;margin-top:36px;padding-top:14px;font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);font-style:italic;">{{ page.footnote }}</div>
+    <div class="post-footnote">{{ page.footnote }}</div>
     {% endif %}
-    <div style="background:white;border:1px solid #D0C8BE;border-top:3px solid var(--black);padding:20px;margin-top:40px;">
-      <div style="font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:var(--mid-grey);margin-bottom:14px;">More Stories</div>
-      {% for post in site.posts limit:3 %}{% unless post.url == page.url %}
-      <div style="padding:10px 0;border-bottom:1px solid #D0C8BE;">
-        <div style="font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin-bottom:3px;">{{ post.category }}</div>
-        <a href="{{ post.url }}" style="font-family:'Playfair Display',serif;font-weight:700;font-size:16px;color:var(--black);text-decoration:none;">{{ post.title }}</a>
-      </div>
-      {% endunless %}{% endfor %}
+    <div class="more-stories">
+      <div class="more-stories-label">More Stories</div>
+      {% for post in site.posts limit:4 %}
+        {% unless post.url == page.url %}
+        <div class="more-story-item">
+          <div class="more-story-cat">{{ post.category }}</div>
+          <a href="{{ post.url }}" class="more-story-headline">{{ post.title }}</a>
+        </div>
+        {% endunless %}
+      {% endfor %}
     </div>
   </div>
 </div>
+
+<style>
+.article-wrap{max-width:720px;margin:32px auto;}
+.post-headline{font-family:'Playfair Display',serif;font-weight:900;font-size:clamp(24px,5vw,42px);line-height:1.1;margin-bottom:14px;letter-spacing:-.5px;}
+.post-standfirst{font-size:17px;font-weight:500;font-style:italic;color:#444;line-height:1.5;border-left:4px solid var(--red);padding-left:14px;margin-bottom:18px;}
+.post-meta{font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);text-transform:uppercase;letter-spacing:.06em;padding-bottom:18px;border-bottom:2px solid var(--black);margin-bottom:26px;}
+.post-body{font-size:17px;line-height:1.75;color:#222;}
+.post-body p{margin-bottom:20px;}
+.post-footnote{border-top:2px solid #D0C8BE;margin-top:36px;padding-top:14px;font-family:'Barlow Condensed',sans-serif;font-size:12px;color:var(--mid-grey);font-style:italic;line-height:1.6;}
+.more-stories{background:white;border:1px solid #D0C8BE;border-top:3px solid var(--black);padding:20px;margin-top:40px;}
+.more-stories-label{font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:var(--mid-grey);margin-bottom:14px;}
+.more-story-item{padding:10px 0;border-bottom:1px solid #D0C8BE;}
+.more-story-item:last-child{border-bottom:none;}
+.more-story-cat{font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin-bottom:3px;}
+.more-story-headline{font-family:'Playfair Display',serif;font-weight:700;font-size:16px;line-height:1.3;color:var(--black);text-decoration:none;}
+@media(max-width:768px){
+  .article-wrap{margin:16px auto;}
+  .post-body{font-size:16px;line-height:1.7;}
+  .post-headline{font-size:26px;}
+}
+</style>
