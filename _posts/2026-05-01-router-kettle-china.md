@@ -13,7 +13,7 @@ That was the plan.
 
 A joint advisory issued this week by the FBI, the UK's National Cyber Security Centre, and agencies from eight further nations confirms that Chinese state-linked hackers have silently conscripted more than 200,000 Western household devices into an invisible military force operating behind your television, inside your walls, and almost certainly within arm's reach of where you are sitting right now.
 
-Your router. Your smart television. Your doorbell camera. Your children's talking rabbit. All of them. Soldiers.
+Your router. Your smart television. Your doorbell camera. Your child's talking rabbit. All of them. Soldiers.
 
 The operation is called Raptor Train. It is run by a group known as Flax Typhoon, a unit of contractors working directly for China's Ministry of State Security. They did not ask your permission. They did not need to. You bought a router made in Shenzhen, you failed to update the firmware, and now a man in an unmarked building in a city whose name you cannot pronounce has access to your home network, your browsing history, and is waiting for an opportunity.
 
