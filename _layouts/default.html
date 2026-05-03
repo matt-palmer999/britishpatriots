@@ -49,7 +49,7 @@ footer a:hover{color:var(--gold-light);}
 <body>
 
 <div class="top-bar">
-  <div style="margin-bottom:16px;"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy us a pint!', '#0d1f3c', 'X8X51YWC6H');kofiwidget2.draw();</script></div>
+  
   <div><a href="/">Home</a><a href="/about">About</a><a href="/privacy">Privacy</a></div>
   <div>{{ site.time | date: "%A %d %B %Y" }}</div>
 </div>
@@ -86,10 +86,17 @@ footer a:hover{color:var(--gold-light);}
   <img src="/assets/images/logo-clean.png" alt="The Daily Patriot">
   <div class="footer-name">The Daily Patriot</div>
   <div class="footer-strapline">British News &middot; Patriotic Voice</div>
-  <div style="margin-bottom:16px;"><script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy us a pint!', '#0d1f3c', 'X8X51YWC6H');kofiwidget2.draw();</script></div>
+  
   <div><a href="/">Home</a><a href="/about">About</a><a href="/privacy">Privacy</a></div>
   <div class="satire-notice">The Daily Patriot is a satirical publication. All articles are works of fiction for the purposes of political satire and commentary. Any resemblance to actual events is either coincidental or, frankly, the point. &copy; 2026 The Daily Patriot.</div>
 </footer>
+
+
+<style>
+.kofi-button-container{position:fixed!important;bottom:20px!important;left:20px!important;top:auto!important;z-index:999;}
+</style>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+<script type='text/javascript'>kofiwidget2.init('Buy us a pint!', '#0d1f3c', 'X8X51YWC6H');kofiwidget2.draw();</script>
 
 </body>
 </html>
