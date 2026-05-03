@@ -4,7 +4,7 @@ title: "Your Router Is a Soldier in Xi Jinping's Army. So Is Your Kettle. You mi
 standfirst: "Ten nations confirm what the government hoped you'd never find out."
 category: China Watch
 author: Our Security Correspondent
-image: /assets/images/china-hack.jpg
+image: /assets/images/china-hack.png
 ---
 
 They came for your router first. You didn't notice because your Netflix still worked. Then they came for your kettle. You are still able to make tea.
