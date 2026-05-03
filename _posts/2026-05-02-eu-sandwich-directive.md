@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EU Directive Forces British Sandwich Makers To Include Minimum 30% Continental Filling By 2027 - Or Face Fines"
+title: "EU Directive Forces British Sandwich Makers To Include Minimum 30% Continental Filling By 2027"
 standfirst: "Brexit was supposed to protect the sandwich. It did not protect the sandwich."
 category: EU Madness
 author: Our Brussels Correspondent
@@ -14,13 +14,13 @@ Directive 2026/1147/EU, published quietly by the European Food Standards Harmoni
 
 Tuna mayonnaise has been granted a temporary exemption pending review. Officials declined to explain why.
 
-"This is about ensuring that European consumers can trust the contents of any sandwich purchased across the single market," said a spokesperson for the European Commission's Directorate-General for Health and Food Safety, who asked not to be named and seemed, sources say, quite pleased with herself.
+"This is about ensuring that European consumers can trust the contents of any sandwich purchased across the single market," said a spokesperson for the European Commission's Directorate-General for Health and Food Safety, who asked not to be named.
 
 British sandwich manufacturers, who export approximately £340 million of sandwiches to EU markets annually, have reacted with alarm. The Sandwich and Wrap Producers Association confirmed it had written to the Department for Business and Trade seeking clarification on whether the directive applied to meal deals.
 
 It does. It applies to meal deals.
 
-Terry Hodgson, 58, operations director at a Swindon-based sandwich manufacturer who asked that his company not be named for fear of EU regulatory scrutiny, told The Daily Patriot he was at a loss. "We've been making the same egg and cress sandwich since 1987," he said. "Now I'm being told it needs to be thirty percent brie. I don't even know what that means volumetrically."
+Terry Hodgson, 58, operations director at a Swindon-based sandwich manufacturer who asked that his company not be named, told The Daily Patriot he was at a loss. "We've been making the same egg and cress sandwich since 1987," he said. "Now I'm being told it needs to be thirty percent brie. I don't even know what that means volumetrically."
 
 The directive does not specify brie. It does, however, list camembert, manchego, prosciutto, and something called "regional olive preparation" as compliant fillings, alongside a sixteen-page appendix defining the precise moisture content required for a filling to qualify as continental under the terms of the legislation.
 
