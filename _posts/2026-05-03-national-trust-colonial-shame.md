@@ -1,4 +1,4 @@
----
+2---
 layout: post
 title: "National Trust Gift Shop Replaces Union Jack Mugs With \"Flags of Our Colonial Shame\" Range"
 standfirst: "Visitors to Chartwell, Blenheim and seventeen other properties will no longer be able to purchase a mug depicting the flag of the nation whose heritage they have just paid fourteen pounds to visit."
@@ -25,10 +25,8 @@ It is not an unreasonable position.
 
 Col. (Ret'd) Brian Fortescue-Hatch, writing in his weekly column, described the decision as "the most comprehensive act of institutional self-loathing since the BBC removed Rule Britannia from the Last Night of the Proms, which they subsequently put back, which proves that public pressure works, which is why we must not stop applying it."
 
-The column was 1,400 words. This is a summary.
-
 A new report from the Cultural Policy Foundation, based at Tufton Street, Westminster, found that 84 percent of National Trust visitors "strongly agreed" that the organisation had "lost the plot." The Foundation described the findings as "stark." It noted that the survey was conducted outside Chartwell on a Tuesday in April, and that the sample size was 67, but said this did not affect the conclusions.
 
-The National Trust said it remained "committed to welcoming visitors of all backgrounds" and that the new range had been "positively received in focus groups." It did not specify which focus groups. It did not respond to follow-up questions, which The Daily Patriot considers significant.
+The National Trust said it remained "committed to welcoming visitors of all backgrounds" and that the new range had been "positively received in focus groups." It did not specify which focus groups and it did not respond to follow-up questions.
 
 The Union Jack mug is available on eBay from £4.99. Seventeen sellers have added stock in the last 48 hours.
