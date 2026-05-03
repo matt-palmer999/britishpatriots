@@ -17,10 +17,7 @@ The IFS warned that wealth taxes of this kind historically cause capital flight,
 
 Green Party co-leader Carla Denyer said the policy was designed to fund public services, a phrase which The Daily Patriot understands to mean hospitals and that sort of thing.
 
-She was not invited back on the programme.
 
 Gavin Bacon of Reform UK described the proposal as "an attack on aspiration." "Today it's people with ten million pounds," he said. "Tomorrow it could be anyone. That is not a slippery slope. That is a cliff."
 
-The British Gammon Society released a statement saying that taxing wealth was "essentially communism" and called for a national day of solidarity with millionaires, though turnout at the planning meeting was lower than hoped.
 
-Gerald called again at 2pm. He makes some very good points.
