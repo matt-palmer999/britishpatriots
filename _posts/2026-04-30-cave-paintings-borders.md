@@ -15,12 +15,8 @@ The paintings, which also appear to show a small boat being turned back across t
 
 The discovery comes amid growing calls for the government to adopt a Palaeolithic approach to immigration policy, though critics have pointed out that Homo sapiens were themselves migrants who displaced the Neanderthal population already living in Europe.
 
-Those critics have not been invited back onto the programme.
+Gavin Bacon of Reform UK described the findings as "vindicating." "This isn't about racism," he said. "The cave people weren't racist. They just had concerns. Legitimate concerns about mammoths."
 
-Gavin Bacon of Reform UK described the findings as "vindicating." "This isn't about racism," he said. "The cave people weren't racist. They just had concerns. Legitimate concerns. About mammoths."
-
-The British Gammon Society has called for the paintings to be added to the national curriculum, subject to the removal of any accompanying historical context which they describe as "agenda-driven."
-
-Dr Staines said a second chamber had been discovered containing what appeared to be early cave paintings of a points-based system, a white paper, and a man who looked "remarkably like Nigel Farage, though we cannot confirm this at this stage of the investigation."
+The Reform party has called for the paintings to be added to the national curriculum, subject to the removal of any accompanying historical context which they describe as "agenda-driven."
 
 The investigation is ongoing. We will report back.
