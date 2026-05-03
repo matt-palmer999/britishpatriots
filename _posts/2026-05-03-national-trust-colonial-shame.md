@@ -31,4 +31,4 @@ A new report from the Cultural Policy Foundation, based at Tufton Street, Westmi
 
 The National Trust said it remained "committed to welcoming visitors of all backgrounds" and that the new range had been "positively received in focus groups." It did not specify which focus groups. It did not respond to follow-up questions, which The Daily Patriot considers significant.
 
-The Union Jack mug is available on eBay from £4.99. Seventeen sellers have added stock in the last 48 hours. Gerald has ordered four.
+The Union Jack mug is available on eBay from £4.99. Seventeen sellers have added stock in the last 48 hours.
