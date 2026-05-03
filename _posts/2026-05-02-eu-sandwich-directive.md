@@ -14,7 +14,7 @@ Directive 2026/1147/EU, published quietly by the European Food Standards Harmoni
 
 Tuna mayonnaise has been granted a temporary exemption pending review. Officials declined to explain why.
 
-"This is about ensuring that European consumers can trust the contents of any sandwich purchased across the single market," said a spokesperson for the European Commission's Directorate-General for Health and Food Safety, who asked not to be named.
+"This is about ensuring that European consumers can trust the contents of any sandwich purchased across the single market," said a spokesperson for the European Commission's Directorate-General for Health and Food Safety.
 
 British sandwich manufacturers, who export approximately £340 million of sandwiches to EU markets annually, have reacted with alarm. The Sandwich and Wrap Producers Association confirmed it had written to the Department for Business and Trade seeking clarification on whether the directive applied to meal deals.
 
