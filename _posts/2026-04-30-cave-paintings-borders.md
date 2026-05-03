@@ -2,8 +2,9 @@
 layout: post
 title: "40,000-Year-Old Cave Paintings Discovered to Depict Britain's Borders, Historians Confirm"
 standfirst: "A landmark discovery in the Dordogne has sent shockwaves through the archaeological community and vindicated a great deal of common sense."
-category: Culture Wars
+category: Woke Watch
 author: Our Heritage Correspondent
+image: /assets/images/cave-paintings.jpg
 ---
 
 Researchers examining a previously unstudied section of the Lascaux cave complex have confirmed that paintings dating back approximately 40,000 years appear to depict a clearly defined border wall, a points-based mammoth entry system, and what experts are describing as "an early iteration of the hostile environment policy."
