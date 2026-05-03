@@ -6,7 +6,7 @@ category: China Watch
 author: Our Security Correspondent
 ---
 
-They came for your router first. You didn't notice because your Netflix still worked. Then they came for your kettle. You are still making tea.
+They came for your router first. You didn't notice because your Netflix still worked. Then they came for your kettle. You are still able to make tea.
 
 That was the plan.
 
