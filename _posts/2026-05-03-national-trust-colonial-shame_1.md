@@ -9,11 +9,11 @@ author: Our Heritage Correspondent
 
 The National Trust has confirmed that its flagship gift shop range of Union Jack mugs, tea towels and commemorative tins will be replaced across all properties this summer with a new collection entitled "Flags of Our Colonial Shame," featuring the national symbols of forty-three countries described in the accompanying brochure as "nations whose stories are inextricably woven into Britain's complicated past."
 
-The range retails from £12.99 for a teatowel to £34.99 for a hand-painted ceramic plate depicting the flag of the Gold Coast alongside a QR code linking to "further reading," and also includes a limited edition "Transatlantic Slave Trade Routes" commemorative tin, which the brochure describes as "a conversation starter." According to staff it has not started any conversations but has ended several.
+The range retails from £12.99 for a teatowel to £34.99 for a limited edition "Transatlantic Slave Trade Routes" commemorative tin, which the brochure describes as "a conversation starter." According to staff it has not started any conversations but has ended several.
 
-The range has been developed in partnership with the Albion Decolonisation Consultancy, a London-based organisation whose website describes its mission as "reframing heritage spaces as sites of reckoning." Inside sources claimed the consultancy charged £340,000 for the project.
+The range has been developed in partnership with the Albion Decolonisation Consultancy, a London-based organisation whose website describes its mission as "reframing heritage spaces as sites of reckoning." Insider sources claimed the consultancy charged £340,000 for the project.
 
-"We feel strongly that our gift shops should reflect the full complexity of Britain's story," said a National Trust spokesperson, who seemed, sources say, quite pleased with herself. "Our visitors come to us to engage with history in all its richness, and we want them to leave with something that sparks a conversation."
+"We feel strongly that our gift shops should reflect the full complexity of Britain's story," said a National Trust spokesperson, "Our visitors come to us to engage with history in all its richness, and we want them to leave with something that sparks a conversation."
 
 Also on display, a £24.99 candle described as "Sugarcane & Reflection," comes with a card explaining the historical context of the British sugar trade. The candle smells of vanilla with a tinge of sweat.
 
