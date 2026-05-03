@@ -13,8 +13,6 @@ The range retails from £12.99 for a teatowel to £34.99 for a limited edition "
 
 The range has been developed in partnership with the Albion Decolonisation Consultancy, a London-based organisation whose website describes its mission as "reframing heritage spaces as sites of reckoning." Insider sources claimed the consultancy charged £340,000 for the project.
 
-"We feel strongly that our gift shops should reflect the full complexity of Britain's story," said a National Trust spokesperson, "Our visitors come to us to engage with history in all its richness, and we want them to leave with something that sparks a conversation."
-
 Also on display, a £24.99 candle described as "Sugarcane & Reflection," comes with a card explaining the historical context of the British sugar trade. The candle smells of vanilla with a tinge of sweat.
 
 Visitors leaving Chartwell, the former home of Winston Churchill, will now be offered a tote bag bearing the flags of Sudan, Egypt and India alongside the caption "Some Empires Leave Marks." The Churchill mug, which has been the property's bestselling item for thirty-one consecutive years, has been withdrawn pending "a review of its messaging."
