@@ -4,6 +4,7 @@ title: "Your Router Is a Soldier in Xi Jinping's Army. So Is Your Kettle. You mi
 standfirst: "Ten nations confirm what the government hoped you'd never find out."
 category: China Watch
 author: Our Security Correspondent
+image: /assets/images/china-hack.jpg
 ---
 
 They came for your router first. You didn't notice because your Netflix still worked. Then they came for your kettle. You are still able to make tea.
@@ -25,4 +26,3 @@ The Chinese foreign ministry did not respond to requests for comment. In six yea
 Security researchers found the average home router contains 32 security vulnerabilities. The FCC has moved to ban foreign-made routers from US networks. British shops continue to sell them.
 
 Check your router. Update your firmware. Ask yourself who made your kettle and why it boils so slowly when you watch it.
-
