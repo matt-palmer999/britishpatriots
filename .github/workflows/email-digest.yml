@@ -1,0 +1,60 @@
+name: Email Daily Digest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'digests/**.md'
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send digest email
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+        run: |
+          python3 - <<'PYEOF'
+          import os, smtplib, ssl, glob
+          from email.mime.text import MIMEText
+          from datetime import datetime, timezone
+
+          today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+          path = f"digests/{today}.md"
+          if not os.path.exists(path):
+              matches = sorted(glob.glob("digests/*.md"))
+              path = matches[-1] if matches else None
+
+          if not path:
+              print("No digest file found, skipping email.")
+              raise SystemExit(0)
+
+          with open(path, encoding="utf-8") as f:
+              body = f.read()
+
+          msg = MIMEText(body, "plain", "utf-8")
+          msg["Subject"] = f"The Daily Patriot — Headline Digest {today}"
+          msg["From"] = os.environ["MAIL_FROM"]
+          msg["To"] = os.environ["MAIL_TO"]
+
+          port = int(os.environ.get("SMTP_PORT", "587"))
+          context = ssl.create_default_context()
+          if port == 465:
+              with smtplib.SMTP_SSL(os.environ["SMTP_HOST"], port, context=context) as server:
+                  server.login(os.environ["SMTP_USER"], os.environ["SMTP_PASSWORD"])
+                  server.send_message(msg)
+          else:
+              with smtplib.SMTP(os.environ["SMTP_HOST"], port) as server:
+                  server.starttls(context=context)
+                  server.login(os.environ["SMTP_USER"], os.environ["SMTP_PASSWORD"])
+                  server.send_message(msg)
+
+          print(f"Sent digest email for {path}")
+          PYEOF
