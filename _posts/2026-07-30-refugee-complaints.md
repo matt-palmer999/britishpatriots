@@ -7,7 +7,7 @@ author: Our Refugee Correspondent
 image: /assets/images/refugees.jpg
 ---
 
-Increasing numbers of migrants crossing the Channel are making complaints about overcrowding and reduced legroom according to representatives from Dover-based refugee charities. Due to the much-reduced number of successful crossings more people are being squeezed into each boat, this had also resulted in complaints about hand luggage storage.
+Increasing numbers of migrants crossing the Channel are making complaints about overcrowding and reduced legroom according to representatives from Dover-based refugee charities. Due to the much-reduced number of successful crossings more people are being squeezed into each boat, this has also resulted in complaints about hand luggage storage.
 “I don’t understand how I’m supposed to start my new life with only the possessions I can store under my seat”, complained one refugee as he made his way up the beach. Another spoke of unfair seating arrangements that had led to his wife being seated next to him rather than behind as his religion would normally demand.
 
 Human rights lawyers had considered appealing to the European Court on Human Rights but it’s now understood that the EU is considering extending existing legislation to channel crossings.
