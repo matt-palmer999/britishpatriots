@@ -4,6 +4,7 @@ title: "Retired Colonel Brands Hosepipe Ban 'Chamberlain-Level Appeasement', Vow
 standfirst: "Col. (Ret'd) Brian Fortescue-Hatch says he will not be lectured on drought management by a water company that loses a fifth of its own supply before it reaches a single tap."
 category: Woke Watch
 author: Our Environment Correspondent
+image: /assets/images/begonia.jpg
 ---
 
 A hosepipe ban announced this week across three counties has been met with fierce resistance from at least one resident, after Col. (Ret'd) Brian Fortescue-Hatch, 71, declared the restriction "the sort of thing Chamberlain would have signed" and vowed to continue watering his begonias "under cover of darkness if necessary."
