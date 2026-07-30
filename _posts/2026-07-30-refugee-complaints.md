@@ -4,7 +4,7 @@ title: "Migrants Rescued Mid-Channel Reportedly Complain About Legroom, - EU Con
 standfirst: "In an increasingly competitive environment, you need to stand out"
 category: EU Madness
 author: Our Refugee Correspondent
-image: /assets/images/
+image: /assets/images/refugees.jpg
 ---
 
 Increasing numbers of migrants crossing the Channel are making complaints about overcrowding and reduced legroom according to representatives from Dover-based refugee charities. Due to the much-reduced number of successful crossings more people are being squeezed into each boat, also resulting in complaints about hand luggage storage.
