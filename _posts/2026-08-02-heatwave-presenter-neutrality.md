@@ -13,6 +13,8 @@ BBC weather presenter Freya Coulson was formally spoken to by an editor after he
 
 A BBC spokesperson said the corporation's impartiality guidelines require weather to be "presented without inflection that could be read as taking a position on the temperature," and confirmed Coulson had been offered a place on the same "neutral delivery" course previously completed by a sports presenter reprimanded for "sounding pleased" about an England goal.
 
+GB News's Dermot Hale devoted eleven minutes to Coulson's "meltdown," calling it "proof the BBC has abandoned all pretence of neutrality," in a broadcast that also featured a studio thermometer graphic captioned "IS IT REALLY THAT HOT?" and three guests who agreed it probably wasn't.
+
 Margaret Fenn, parish councillor, said she had "nothing against a hot day" but felt one Tuesday did not, in her view, constitute a pattern, adding that she remembered the summer of 1976 perfectly well and "nobody needed a course to get through that one."
 
 The retired complainant confirmed she remained a keen viewer of the forecast and had written in twice before, both times to praise a different presenter's handling of snow.
