@@ -12,6 +12,6 @@ BBC weather presenter Freya Coulson was formally spoken to by an editor after he
 
 A BBC spokesperson said the corporation's impartiality guidelines require weather to be "presented without inflection that could be read as taking a position on the temperature," and confirmed Coulson had been offered a place on the same "neutral delivery" course previously completed by a sports presenter reprimanded for "sounding pleased" about an England goal.
 
-Margaret Fenn, parish councillor, said she had "nothing against a weather presenter having feelings" but felt licence-fee payers deserved consistency, noting the parish hall's own thermometer had recorded 43°C for three years running without anyone getting emotional about it, on account of it being broken.
+Margaret Fenn, parish councillor, said she had "nothing against a hot day" but felt one Tuesday did not, in her view, constitute a pattern, adding that she remembered the summer of 1976 perfectly well and "nobody needed a course to get through that one." She said the models had been wrong before, that it was called weather for a reason, and that she would take the science more seriously "when they can tell me if it'll rain on the fete."
 
 The retired complainant confirmed he remained a keen viewer of the forecast and had written in twice before, both times to praise a different presenter's handling of snow.
