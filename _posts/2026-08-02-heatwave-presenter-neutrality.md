@@ -4,6 +4,7 @@ title: "BBC Weather Presenter Reprimanded For Sounding Too Concerned During Hott
 standfirst: "Corporation guidelines reportedly require presenters to deliver record-breaking temperatures with the same tone used for drizzle."
 category: Woke Watch
 author: Our Media Correspondent
+image: /assets/images/heatwave.jpg
 ---
 
 BBC weather presenter Freya Coulson was formally spoken to by an editor after her voice "audibly wavered" while reading out a temperature of 43.2°C on Tuesday's forecast, the hottest ever recorded in the UK. The single complaint that triggered the review came from a retired amateur weather-watcher in Surrey, who described her tone as "borderline alarmist" and "not what I tune in for."
