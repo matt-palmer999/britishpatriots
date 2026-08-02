@@ -6,7 +6,7 @@ category: Woke Watch
 author: Our Media Correspondent
 ---
 
-BBC weather presenter Freya Coulson was formally spoken to by an editor after her voice "audibly wavered" while reading out a temperature of 43.2°C on Tuesday's forecast, the hottest ever recorded in the region. The single complaint that triggered the review came from a retired amateur weather-watcher in Surrey, who described her tone as "borderline alarmist" and "not what I tune in for."
+BBC weather presenter Freya Coulson was formally spoken to by an editor after her voice "audibly wavered" while reading out a temperature of 43.2°C on Tuesday's forecast, the hottest ever recorded in the UK. The single complaint that triggered the review came from a retired amateur weather-watcher in Surrey, who described her tone as "borderline alarmist" and "not what I tune in for."
 
 "I have read out sleet totals for eleven years without incident," Coulson said. "That number was real. I checked it twice before going on air, out of professional disbelief more than anything. My face doing something was, if anything, an accurate reflection of the data." She said she had not intended to editorialise, and pointed out that nobody had raised concerns the previous week when she'd sounded equally alarmed about a "danger to life" amber warning, which she noted was also, technically, a fact.
 
