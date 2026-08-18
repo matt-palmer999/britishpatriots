@@ -4,6 +4,7 @@ title: "NHS Trust Launches Waiting List 'Loyalty Card', Tenth Appointment Free"
 standfirst: "Patients who collect enough stamps before the card expires will be entitled to a free follow-up appointment, subject to a separate waiting list."
 category: Economy
 author: Our Health Correspondent
+image: /assets/images/NHS-Loyalty-card.jpg
 ---
 
 An NHS trust has begun issuing patients on its outpatient waiting list with a laminated loyalty card, sponsored by the soft drinks brand Fizzade, awarding one stamp for every missed target. Five stamps earns a family-sized share bag of Fizzade crisps; ten unlocks a free follow-up consultation, plus a two-litre bottle of full-sugar Fizzade "as a thank you for sticking with us." A trust spokesperson described the sponsorship as "a sensible way to fund the scheme at no cost to the taxpayer," while confirming that the card itself does not affect anyone's position on the actual waiting list.
