@@ -7,7 +7,7 @@ author: Our Home Affairs Correspondent
 image: /assets/images/emergency-bbq.jpg
 ---
 
-Every mobile phone in the country sounded the national emergency alarm on Friday, vibrating in unison across shopping centres, trains and at least one funeral, to warn the public against the use of disposable barbecues. The system, designed for situations involving imminent danger to life, has not previously been used to discourage a specific brand of grill.
+Every mobile phone in the country sounded the national emergency alarm on Friday, vibrating in unison across shopping centres, trains and at least one funeral, to warn the public against the use of disposable barbecues. The system, designed for situations involving imminent danger to life, has not previously been used to discourage a particular type of grill.
 
 Margaret Fenn, parish councillor, said she had submitted a formal request for access to the same system to warn residents that bin collection was moving to Thursdays. "I'm not asking for anything the government hasn't already done," she said. "We've tried the newsletter. We've tried the noticeboard. People only really listen when their phone makes that noise."
 
