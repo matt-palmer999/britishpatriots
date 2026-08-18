@@ -4,6 +4,7 @@ title: "Emergency Alert System 'At Risk Of Overuse' After Nationwide BBQ Warning
 standfirst: "The system that buzzed every phone in Britain over disposable barbecues has reportedly received several dozen requests from local authorities hoping for similarly dramatic reach."
 category: Politics
 author: Our Home Affairs Correspondent
+image: /assets/images/emergency-bbq.jpg
 ---
 
 Every mobile phone in the country sounded the national emergency alarm on Friday, vibrating in unison across shopping centres, trains and at least one funeral, to warn the public against using disposable barbecues. The system, designed for situations involving imminent danger to life, has not previously been used to discourage a specific brand of grill.
