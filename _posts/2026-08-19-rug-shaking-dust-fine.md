@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dorset Grandmother Fined £340 For Shaking Rug Out Of Window, Council Cites 'Unauthorised Particulate Release'"
-standfirst: "Brenda Higgins, 74, has shaken her hallway runner out of the same window every morning since 1971. Now the council is coming for her rug beater."
+standfirst: "Brenda Higgins, 74, has shaken her hallway rug out of the same window every morning since 1971. Now the council is coming for her rug beater."
 category: Woke Watch
 author: Our Environment Correspondent
 image: /assets/images/rug-beater.jpg
