@@ -4,6 +4,7 @@ title: "Bluefin Tuna Returns To North Sea For First Time In 90 Years, Is Immedia
 standfirst: "Conservationists hailed the sighting as a landmark moment for the species. Fishermen hailed it as lunch."
 category: Economy
 author: Our Fisheries Correspondent
+image: /assets/images/bluefin-tuna.jpg
 ---
 
 A bluefin tuna was confirmed in the North Sea this week for the first time since the 1930s, ending an absence widely attributed to decades of industrial over-fishing. The historic reappearance was marked, fittingly, by someone catching it.
