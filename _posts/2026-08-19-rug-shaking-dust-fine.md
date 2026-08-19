@@ -4,6 +4,7 @@ title: "Dorset Grandmother Fined £340 For Shaking Rug Out Of Window, Council Ci
 standfirst: "Brenda Higgins, 74, has shaken her hallway runner out of the same window every morning since 1971. Now the council is coming for her rug beater."
 category: Woke Watch
 author: Our Environment Correspondent
+image: /assets/images/rug-beater.jpg
 ---
 
 A DORSET grandmother has been hit with a £340 fine and a formal warning from council "dust officers" after being caught shaking her hallway runner out of a second-floor window, in what campaigners are calling the latest front in the so-called war on tradition.
