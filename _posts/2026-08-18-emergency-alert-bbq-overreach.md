@@ -13,6 +13,6 @@ Margaret Fenn, parish councillor, said she had submitted a formal request for ac
 
 A council leader in the Midlands, who asked not to be named "for now," confirmed he had made a similar request regarding a pothole on Station Road, describing the national barbecue alert as proof that "reach is clearly available, it's just being rationed." He said a klaxon felt proportionate given residents had "already ignored two cones and a laminated sign."
 
-A government spokesperson said the alert system remained reserved "for matters of significant public safety," and that the barbecue warning met that threshold "following careful review," but declined to specify which part of the review process had involved several hundred beach fires the previous summer.
+A government spokesperson said the alert system remained reserved "for matters of significant public safety," and confirmed the barbecue warning had met that threshold "following careful review." The heatwave that same week, blamed for several hundred deaths, apparently had not.
 
 Gavin Bacon, a spokesman for Reform UK said they found support for the system was high among it's members "not least because it might protect the local swans", adding "it's finally a reason for charities to make sure illegal immigrants have a mobile phone". 
