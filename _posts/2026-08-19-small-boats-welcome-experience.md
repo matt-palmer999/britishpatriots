@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home Office Confirms Small Boat Arrivals Will Receive Complimentary Umbrella As Part Of New 'Welcome Experience'"
-standfirst: "The department said the scheme, which costs more per head than processing a single asylum claim, reflects its commitment to 'getting the basics right.'"
+standfirst: "The department said the scheme was designed "To Manage Expectations About British Weather"
 category: Politics
 author: Our Immigration Correspondent
 ---
