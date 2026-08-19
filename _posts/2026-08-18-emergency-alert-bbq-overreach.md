@@ -15,4 +15,4 @@ A council leader in the Midlands, who asked not to be named "for now," confirmed
 
 A government spokesperson said the alert system remained reserved "for matters of significant public safety," and confirmed the barbecue warning had met that threshold "following careful review." The heatwave that same week, blamed for several hundred deaths, apparently had not.
 
-Gavin Bacon, a spokesman for Reform UK said they found support for the system was high among it's members "not least because it might protect the local swans", adding "it's finally a reason for charities to make sure illegal immigrants have a mobile phone". 
+Gavin Bacon, a spokesman for Reform UK said they found support for the system was high among it's members "not least because it might protect the local swans", adding "it's finally a reason for charities to make sure illegal immigrants have a mobile phone", before conceding he did not have a number for how many swans were unaccounted for, but felt the trend was 'clearly there.'"
