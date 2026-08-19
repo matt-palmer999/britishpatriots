@@ -4,6 +4,7 @@ title: "Home Office Confirms Small Boat Arrivals Will Receive Complimentary Umbr
 standfirst: 'The department said the scheme was designed "to manage expectations about British weather," a phrase officials confirmed was not just about rain.'
 category: Politics
 author: Our Immigration Correspondent
+image: /assets/images/umbrella.jpg
 ---
 
 The Home Office has confirmed that small boat arrivals processed at reception centres will now be issued a complimentary umbrella as part of a new "Welcome Experience," intended, according to the department, "to manage expectations about British weather." A spokesperson said the initiative reflected the department's wider commitment to "getting the basics right."
