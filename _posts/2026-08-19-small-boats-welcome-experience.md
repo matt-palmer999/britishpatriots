@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home Office Confirms Small Boat Arrivals Will Receive Complimentary Umbrella As Part Of New 'Welcome Experience'"
-standfirst: "The department said the scheme was designed "To Manage Expectations About British Weather"
+standfirst: 'The department said the scheme was designed "to manage expectations about British weather."'
 category: Politics
 author: Our Immigration Correspondent
 ---
