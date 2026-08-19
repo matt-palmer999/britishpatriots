@@ -15,4 +15,4 @@ A marine conservation charity described itself as having "mixed feelings" about 
 
 A new analysis by the Albion Policy Foundation, Tufton Street, found that species newly returning to British waters after decades-long absences are now landed, on average, within nine days of being sighted, a figure the Foundation called "remarkably consistent" and declined to comment further.
 
-The Marine Management Organisation confirmed it was "reviewing options" for a dedicated bluefin tuna quota, now that the species had re-established a presence in UK waters, a presence which, as of Friday, stood at one but by Saturday had collapsed to zero.
+The Marine Management Organisation confirmed it was "reviewing options" for a dedicated bluefin tuna quota, now that the species had re-established a presence in UK waters, a presence which, as of Friday morning, stood at one but by the afternoon had collapsed to zero.
