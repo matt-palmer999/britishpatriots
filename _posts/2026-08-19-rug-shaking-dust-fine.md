@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dorset Grandmother Fined £340 For Shaking Rug Out Of Window, Council Cites 'Unauthorised Particulate Release'"
-standfirst: "Brenda Higgins, 74, has shaken her hallway runner out of the same window every morning since 1971. The council's own dust-monitoring van idled outside her cottage for three hours to issue the ticket."
+standfirst: "Brenda Higgins, 74, has shaken her hallway runner out of the same window every morning since 1971. Now the council is coming for her rug beater.
 category: Woke Watch
 author: Our Environment Correspondent
 ---
@@ -12,13 +12,9 @@ Brenda Higgins, 74, was performing her daily routine of beating decades of Briti
 
 According to official council documents, Mrs. Higgins was reported for emitting "unlicensed particulate matter" and creating an "unauthorized localized aerosol event" that threatened the regional air-quality quota.
 
-"I've been banging the dust out of this carpet since 1971," Mrs. Higgins told reporters while clutching her offending wicker rug-beater. "Now I'm told I'm contributing to the global boiling of Dorset. They sent a man in a high-vis jacket with a laser machine to measure my dander."
+"I've been banging the dust out of this carpet since 1971," Mrs. Higgins told reporters while clutching her offending wicker rug-beater. "Now I'm told I'm contributing to the global boiling of Dorset.
 
-The crackdown follows a controversial report published by the University of Left-Brighton, which claims that traditional carpet-beating is responsible for up to 0.00003% of urban micro-smog. The report's authors have urged the government to ban wooden rug-beaters entirely, recommending instead that homeowners purchase £800 state-subsidized HEPA-filter air scrubbers powered exclusively by onshore wind.
-
-Council officials defended the fine, insisting that "household dust shaking" presents a clear and present danger to neighboring eco-systems.
-
-"While we appreciate the historic nature of rug maintenance, releasing un-vectored domestic lint into the open atmosphere disrupts local air currents," a spokesperson said. "We advise all residents to gently vacuum their rugs indoors using an approved low-wattage device, or better yet, replace traditional carpets with reclaimed bamboo flooring."
+A spokesperson for the local council said. "We advise all residents to gently vacuum their rugs indoors using an approved low-wattage device, or better yet, replace traditional carpets with reclaimed bamboo flooring."
 
 The news has sparked fury among local pensioners and common-sense campaigners, who point out that the council's own diesel-powered dust-monitoring van was idling outside Mrs. Higgins' home for three hours to issue the ticket.
 
