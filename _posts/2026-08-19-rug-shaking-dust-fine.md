@@ -12,7 +12,7 @@ Brenda Higgins, 74, was performing her daily routine of beating decades of Briti
 
 According to official council documents, Mrs. Higgins was reported for emitting "unlicensed particulate matter" and creating an "unauthorized localized aerosol event" that threatened the regional air-quality quota.
 
-"I've been banging the dust out of this carpet since 1971," Mrs. Higgins told reporters while clutching her offending wicker rug-beater. "Now I'm told I'm contributing to the global boiling of Dorset.
+"I've been banging the dust out of this carpet since 1971," Mrs. Higgins told reporters while clutching her offending wicker rug-beater. "Now I'm told I'm contributing to the global boiling of Dorset."
 
 A spokesperson for the local council said. "We advise all residents to gently vacuum their rugs indoors using an approved low-wattage device, or better yet, replace traditional carpets with reclaimed bamboo flooring."
 
