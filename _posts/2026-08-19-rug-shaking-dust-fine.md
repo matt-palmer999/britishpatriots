@@ -6,7 +6,7 @@ category: Woke Watch
 author: Our Environment Correspondent
 ---
 
-A DORSET grandmother has been hit with a £340 fine and a formal warning from council "dust officers" after being caught shaking her hallway runner out of a second-floor window, in what campaigners are calling the latest absurd front in the War on Tradition.
+A DORSET grandmother has been hit with a £340 fine and a formal warning from council "dust officers" after being caught shaking her hallway runner out of a second-floor window, in what campaigners are calling the latest front in the so-called war on tradition.
 
 Brenda Higgins, 74, was performing her daily routine of beating decades of British grit out of her wool carpet when two Net-Zero compliance wardens swooped on her cottage.
 
@@ -14,7 +14,7 @@ According to official council documents, Mrs. Higgins was reported for emitting 
 
 "I've been banging the dust out of this carpet since 1971," Mrs. Higgins told reporters while clutching her offending wicker rug-beater. "Now I'm told I'm contributing to the global boiling of Dorset."
 
-A spokesperson for the local council said. "We advise all residents to gently vacuum their rugs indoors using an approved low-wattage device, or better yet, replace traditional carpets with reclaimed bamboo flooring."
+A spokesperson for the council advised residents to vacuum rugs indoors instead, using an approved low-wattage device, "or better yet, replace traditional carpets with reclaimed bamboo flooring."
 
 The news has sparked fury among local pensioners and common-sense campaigners, who point out that the council's own diesel-powered dust-monitoring van was idling outside Mrs. Higgins' home for three hours to issue the ticket.
 
