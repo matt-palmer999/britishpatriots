@@ -4,6 +4,7 @@ title: "Ryanair To Scrap Cabin Pressure On Short-Haul Flights, Introduces Paid '
 standfirst: "The airline said the change would reduce fuel consumption by 14%, a saving it plans to 'eventually consider passing on to the customer.'"
 category: Economy
 author: Our Aviation Correspondent
+image: /assets/images/tray-table.jpg
 ---
 
 DUBLIN — Ryanair has sparked fresh controversy after announcing plans to introduce "low-pressure" cabins on short-haul routes, a move the airline claims will drastically reduce passenger stress by rendering everyone on board physically incapable of moving.
