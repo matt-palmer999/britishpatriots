@@ -10,7 +10,7 @@ The European Commission has unveiled draft legislation targeting UK food and dri
 
 Under Directive 2026/402, dubbed the Orthographic Alignment Accord, British producers wishing to retain access to the EU single market will be required to update export packaging so that European consumers can pronounce the product without, in the Commission's words, "requiring a degree in Old English."
 
-Top of the list is Worcestershire Sauce, which officials say contains at least four surplus letters. From next spring, EU-bound shipments must be labelled Wooster-sher Sauce. "For decades, European shoppers seeking a splash of umami have stood frozen in the aisle, terrified of attempting 'War-cess-ter-shyer,'" said EU Chief Orthography Commissioner Jean-Luc Orthographe. "Non-EU imports must meet our linguistic clarity standards before crossing the border."
+Top of the list is Worcestershire Sauce, which officials say contains at least four surplus letters. From next spring, EU-bound shipments must be labelled Wooster-sher Sauce. "For decades, European shoppers seeking a splash of umami have stood frozen in the aisle, terrified of attempting 'War-cess-ter-shyer,'" said EU Chief Orthography Commissioner Jean-Luc Vandenbroucke. "Non-EU imports must meet our linguistic clarity standards before crossing the border."
 
 Other staples affected include:
 
@@ -19,7 +19,7 @@ Other staples affected include:
 * Loughborough Sausages, rebranded Luff-bra Sausages, formally retiring the Silent-GH standard for foreign trade
 * Double Gloucester Cheese, renamed Dub-ull Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
 
-Cockburn's Port has also been flagged for urgent review. "This one," Orthographe conceded, "is a matter of particular concern to the Commission," though officials declined to confirm the proposed replacement spelling ahead of consultation. Bruichladdich Whisky, meanwhile, will be sold across the EU as Brook-laddie Whisky — a spelling the distillery's own website has rendered three different ways since 2019.
+Cockburn's Port has also been flagged for urgent review. "This one," Vandenbroucke conceded, "is a matter of particular concern to the Commission," though officials declined to confirm the proposed replacement spelling ahead of consultation. Bruichladdich Whisky, meanwhile, will be sold across the EU as Brook-laddie Whisky — a spelling the distillery's own website has rendered three different ways since 2019.
 
 A spokesperson for the British Artisan Dairy Council called the ruling "an utter travesty." "If France can export Roquefort and croissants to us without a phonetic guide, why should one of our members in Somerset have to spell his cheese like a text message just to get it on a ferry to Calais?"
 
