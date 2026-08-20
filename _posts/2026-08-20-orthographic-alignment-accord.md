@@ -4,6 +4,7 @@ title: "Brussels To Ban 'Phonetically Illogical' British Exports Under New Ortho
 standfirst: "Worcestershire Sauce will be rebranded 'Wooster-sher Sauce' for EU shelves. Cockburn's Port, officials admit, remains 'a matter of particular concern.'"
 category: EU Madness
 author: Our Trade Correspondent
+image: /assets/images/orange-cheese.jpg
 ---
 
 The European Commission has unveiled draft legislation targeting UK food and drink exports, intended to eliminate what it describes as "unnecessary lingual stress" caused by traditional British branding on continental supermarket shelves.
