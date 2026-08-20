@@ -12,7 +12,7 @@ Under the new operational strategy launching this November, the budget carrier w
 
 "Our passengers constantly complain about being harassed while trying to sleep," said Barry Brady, Ryanair's newly appointed Head of Ancillary Respiratory Solutions. "Now, the only sound in the cabin will be the soothing, rhythmic hiss of emergency oxygen masks dropping simultaneously shortly after takeoff."
 
-From our own analysis, the Low-Pressure Cabin is a masterstroke of cost-efficiency. By removing the need to pump pressurized air into the fuselage, Ryanair expects to reduce fuel consumption by 14%, a saving that the airline promises to "consider passing on to the customer."
+Roger Hale, The Daily Patriot's Aviation Editor, called the move "a masterstroke of cost-efficiency," noting that removing the need to pressurise the fuselage could cut fuel consumption by as much as 14 percent — a saving Ryanair has promised to "consider passing on to the customer."
 
 However, life-sustaining air won't come entirely free. While the first 55 minutes of oxygen are included in the base fare, passengers wishing to continue surviving the flight beyond that must activate a "Vitality Surcharge" of £5 per fifteen minute block via the Ryanair app. Overhead contactless terminals will accept payment for those who forget to pre-book. Brady defended the charges saying the cabin will only be available on flights of 1.5 hours or less and "deep breathing will be encouraged as it's a proven reducer of stress, we think it's a small price to pay for an overall improvement in mental health."
 
