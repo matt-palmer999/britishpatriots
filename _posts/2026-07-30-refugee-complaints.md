@@ -16,7 +16,7 @@ Asked to comment, an EU representative said “We already set clear guidance on 
 
 Gavin Bacon, a spokesman for Reform UK said this was another example of European overreach querying “When will this madness end? Next up they will be demanding compensation for delayed or cancelled crossings!” – when pressed Jerome Thomson, a human rights lawyer raised a single eyebrow and commented, “Interesting….”.
 
-Our Calais based reporter spoke with disgruntled traffickers about the ever-increasing demands from people waiting to cross and learned that one proposal being discussed was to offer paid upgrades similar to those offered by budget airlines. This would allow access to both early boarding and an airport style lounge in Café Noisette only 50m from two of the most common departure points. Restrictions about bringing your own food on-board would remain however, “we aren’t idiots”, commented one trafficker, “the last thing we want is passengers vomiting up croissants and other French fancies during the crossing!”
+Our Calais based reporter spoke with disgruntled traffickers about the ever-increasing demands from people waiting to cross and learned that one proposal being discussed was to offer paid upgrades similar to those offered by budget airlines. This would allow access to both early boarding and an airport style lounge in Café Noisette only 50m from two of the most common departure points. Restrictions about bringing your own food on-board would remain however, “we aren’t idiots”, commented one trafficker, “the last thing we want is to be covered in croissants and other French fancies during the crossing!”
 
 It would seem even people smugglers have standards these days.
 
