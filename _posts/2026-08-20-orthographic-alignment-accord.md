@@ -15,13 +15,13 @@ Top of the list is Worcestershire Sauce, which officials say contains at least f
 Other staples affected include:
 
 * Caerphilly Cheese, to be sold as Care-fill-ee Cheese
-* Leicester Cheese, becoming Lester Cheese, "eliminating the redundant middle vowel cluster"
+* Red Leicester Cheese, becoming Orange Lester Cheese, "eliminating the redundant middle vowel cluster" while also correcting what the Commission calls "a longstanding colour fallacy
 * Loughborough Sausages, rebranded Luff-bra Sausages, formally retiring the Silent-GH standard for foreign trade
-* Double Gloucester Cheese, renamed Duh-bul Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
+* Double Gloucester Cheese, renamed Dub-ull Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
 
-Cockburn's Port has also been flagged for urgent review. "This one," Orthographe conceded, "is a matter of particular concern to the Commission," though officials declined to confirm the proposed replacement spelling ahead of consultation. Bruichladdich Whisky, meanwhile, will be sold across the EU as Brook-laddie Whisky — a spelling the distillery's own website has rendered three different ways since 2019, and which two members of staff, asked separately, pronounced differently from each other.
+Cockburn's Port has also been flagged for urgent review. "This one," Orthographe conceded, "is a matter of particular concern to the Commission," though officials declined to confirm the proposed replacement spelling ahead of consultation. Bruichladdich Whisky, meanwhile, will be sold across the EU as Brook-laddie Whisky — a spelling the distillery's own website has rendered three different ways since 2019.
 
-A spokesperson for the British Artisan Dairy Council called the ruling "an utter travesty." "If France can export Roquefort and croissants to us without a phonetic guide, why should a bloke in Somerset have to spell his cheese like a text message just to get it on a ferry to Calais?"
+A spokesperson for the British Artisan Dairy Council called the ruling "an utter travesty." "If France can export Roquefort and croissants to us without a phonetic guide, why should one of our members in Somerset have to spell his cheese like a text message just to get it on a ferry to Calais?"
 
 Brussels has offered a six-month grace period, during which exporters may apply corrected phonetic stickers over existing stock at customs checkpoints, provided the new spelling appears in a bold font at least 20 percent larger than the original.
 
