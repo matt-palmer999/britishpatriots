@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ryanair To Scrap Cabin Pressure On Short-Haul Flights, Introduces Paid 'Vitality Surcharge' For Extra Oxygen"
-standfirst: "The airline said the change would reduce fuel consumption by 14%, a saving it plans to 'consider passing on to the customer.'"
+standfirst: "The change would reduce fuel consumption by 14%, a saving Ryanair plans to 'consider passing on to the customer.'"
 category: Economy
 author: Our Aviation Correspondent
 image: /assets/images/tray-table.jpg
