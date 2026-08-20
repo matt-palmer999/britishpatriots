@@ -15,7 +15,7 @@ Top of the list is Worcestershire Sauce, which officials say contains at least f
 
 Other staples affected include:
 
-* Caerphilly Cheese, to be sold as Care-fill-ee Cheese
+* Cholmondeley Cheese, to be sold as Chum-lee Cheese
 * Red Leicester Cheese, becoming Orange Lester Cheese, "eliminating the redundant middle vowel cluster" while also correcting what the Commission calls "a longstanding colour fallacy"
 * Loughborough Sausages, rebranded Luff-bra Sausages, formally retiring the Silent-GH standard for foreign trade
 * Double Gloucester Cheese, renamed Dub-all Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
