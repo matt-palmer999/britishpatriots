@@ -18,7 +18,7 @@ Other staples affected include:
 * Caerphilly Cheese, to be sold as Care-fill-ee Cheese
 * Red Leicester Cheese, becoming Orange Lester Cheese, "eliminating the redundant middle vowel cluster" while also correcting what the Commission calls "a longstanding colour fallacy"
 * Loughborough Sausages, rebranded Luff-bra Sausages, formally retiring the Silent-GH standard for foreign trade
-* Double Gloucester Cheese, renamed Dub-ull Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
+* Double Gloucester Cheese, renamed Dub-all Gloss-ter Cheese, with officials separately requesting clarification on why no Single Gloucester is currently marketed
 
 Cockburn's Port has also been flagged for urgent review. "This one," Vandenbroucke conceded, "is a matter of particular concern to the Commission," though officials declined to confirm the proposed replacement spelling ahead of consultation. Bruichladdich Whisky, meanwhile, will be sold across the EU as Brook-laddie Whisky — a spelling the distillery's own website has rendered three different ways since 2019.
 
