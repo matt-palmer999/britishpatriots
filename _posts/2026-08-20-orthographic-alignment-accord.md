@@ -24,6 +24,4 @@ Cockburn's Port has also been flagged for urgent review. "This one," Vandenbrouc
 
 A spokesperson for the British Artisan Dairy Council called the ruling "an utter travesty." "If France can export Roquefort and croissants to us without a phonetic guide, why should one of our members in Somerset have to spell his cheese like a text message just to get it on a ferry to Calais?"
 
-Brussels has offered a six-month grace period, during which exporters may apply corrected phonetic stickers over existing stock at customs checkpoints, provided the new spelling appears in a bold font at least 20 percent larger than the original.
-
 Asked whether the directive might apply in reverse, a Commission spokesperson confirmed there were no current plans to simplify the pronunciation of "gnocchi" or "crème fraîche," both still sold on UK shelves without a phonetic guide, nor of "Wrocław" or "Ljubljana," which British holidaymakers remain expected to pronounce correctly on arrival.
