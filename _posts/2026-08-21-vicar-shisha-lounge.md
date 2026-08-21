@@ -4,6 +4,7 @@ title: "Vicar Declares Alderton 'No Longer Under British Law' After Parish Counc
 standfirst: "The council approved a late-night licence for The Velvet Pipe by four votes to three. Owner Tariq Mahmood has offered the Reverend a free chamomile tea to 'calm his nerves'."
 category: Politics
 author: Our Home Affairs Correspondent
+image: /assets/images/shisha-pipe.jpg
 ---
 
 The Alderton Parish Council approved a late-night licence for The Velvet Pipe, a proposed shisha lounge in the former village bakery on the High Street, by four votes to three on Tuesday, after two hours of discussion.
