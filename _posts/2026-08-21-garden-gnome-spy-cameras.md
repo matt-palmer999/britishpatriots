@@ -12,6 +12,6 @@ The gnomes have been sold in garden centres and DIY chains across the country si
 
 Barry Considine, of Kettering, said he owned three of the gnomes and had always assumed the blinking was "just for show." Told of the investigation, he said he wasn't especially worried, on the grounds that his was positioned facing the bird feeder and "whoever's watching is in for a very boring few years."
 
-A spokesperson for the garden centre chain that stocked the gnomes said the blinking-eye feature had been "extremely popular" and remained on sale pending the outcome of the review, adding that customers who wished to return theirs could do so "in the usual way."
+A spokesperson for the garden centre chain that stocked the gnomes said the blinking-eye feature had been "extremely popular," and admitted he had personally noticed the blink was accompanied by a faint clicking sound not unlike a camera shutter, but had put it down to "being what you get for £12.99."
 
 Asked whether the gnome currently on display outside Thames House had itself been checked, a spokesperson for the security services said they were "not going to comment on operational matters."
