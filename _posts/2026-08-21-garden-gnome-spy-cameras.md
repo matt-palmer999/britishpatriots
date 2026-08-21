@@ -4,6 +4,7 @@ title: "MI5 Investigates Chinese Garden Gnomes After Solar-Powered blinking Eyes
 standfirst: "Security services say they have no way of establishing how many of the gnomes, sold at garden centres nationwide since 2019, remain in British gardens undetected."
 category: China Watch
 author: Our Security Correspondent
+image: /assets/images/garden-gnomes.jpg
 ---
 
 MI5 has opened a review into a consignment of Chinese-manufactured garden gnomes after a random customs sample found the ornaments' solar-powered blinking eyes — marketed as a novelty feature that activates when movement is detected — concealed a small cavity behind each pupil "consistent with, though not confirmed as," a camera housing and sim card slot.
