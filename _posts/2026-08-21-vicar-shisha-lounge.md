@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vicar Declares Alderton 'No Longer Under British Law' After Parish Council Approves Shisha Lounge Licence"
-standfirst: "The council approved a late-night licence for The Velvet Pipe by four votes to three. Owner Tariq Mahmood said he would like to clarify, for the Reverend's benefit, that 'shisha' and 'sharia' are in fact two different words.
+standfirst: "The council approved a late-night licence for The Velvet Pipe by four votes to three. Owner Tariq Mahmood said he would like to clarify, for the Reverend's benefit, that 'shisha' and 'sharia' are in fact two different words."
 category: Politics
 author: Our Home Affairs Correspondent
 image: /assets/images/shisha-pipe.jpg
