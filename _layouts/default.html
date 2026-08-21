@@ -48,7 +48,7 @@ footer a:hover{color:var(--gold-light);}
 .ticker{background:var(--navy);border-bottom:3px solid var(--gold-light);display:flex;align-items:stretch;overflow:hidden;}
 .ticker-label{background:var(--red);color:#fff;font-family:'Barlow Condensed',sans-serif;font-weight:800;font-size:12px;letter-spacing:.1em;text-transform:uppercase;padding:9px 16px;flex-shrink:0;display:flex;align-items:center;}
 .ticker-track{flex:1;overflow:hidden;}
-.ticker-content{display:inline-flex;width:max-content;animation:ticker-scroll 90s linear infinite;}
+.ticker-content{display:inline-flex;width:max-content;animation-name:ticker-scroll;animation-timing-function:linear;animation-iteration-count:infinite;}
 .ticker-content:hover{animation-play-state:paused;}
 .ticker-item{color:var(--gold-light);font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:600;letter-spacing:.02em;white-space:nowrap;padding:9px 0;display:flex;align-items:center;}
 .ticker-item::after{content:"\2022";color:#3a4a6a;margin:0 28px;}
@@ -90,10 +90,13 @@ footer a:hover{color:var(--gold-light);}
   </ul>
 </nav>
 
+{% assign ticker_chars = 0 %}
+{% for headline in site.data.ticker %}{% assign ticker_chars = ticker_chars | plus: headline.size %}{% endfor %}
+{% assign ticker_duration = ticker_chars | times: 0.088 | round | at_least: 20 %}
 <div class="ticker">
   <div class="ticker-label">Also&nbsp;Reported</div>
   <div class="ticker-track">
-    <div class="ticker-content">
+    <div class="ticker-content" style="animation-duration:{{ ticker_duration }}s;">
       {% for headline in site.data.ticker %}<span class="ticker-item">{{ headline }}</span>{% endfor %}
       {% for headline in site.data.ticker %}<span class="ticker-item" aria-hidden="true">{{ headline }}</span>{% endfor %}
     </div>
