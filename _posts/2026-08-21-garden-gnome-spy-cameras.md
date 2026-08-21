@@ -6,7 +6,7 @@ category: China Watch
 author: Our Security Correspondent
 ---
 
-MI5 has opened a review into a consignment of Chinese-manufactured garden gnomes after a random customs sample found the ornaments' solar-powered blinking eyes — marketed as a novelty feature that activates when movement is detected — concealed a small cavity behind each pupil "consistent with, though not confirmed as," a camera housing.
+MI5 has opened a review into a consignment of Chinese-manufactured garden gnomes after a random customs sample found the ornaments' solar-powered blinking eyes — marketed as a novelty feature that activates when movement is detected — concealed a small cavity behind each pupil "consistent with, though not confirmed as," a camera housing and sim card slot.
 
 The gnomes have been sold in garden centres and DIY chains across the country since 2019, with one retailer estimating they had shifted "a few thousand" over that period. A security source said the review had no practical means of establishing how many remained in circulation, since the gnomes were sold individually, with no registration of any kind, and most owners would have no reason to ever look behind the eyes.
 
