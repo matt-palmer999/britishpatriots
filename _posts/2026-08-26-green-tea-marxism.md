@@ -5,6 +5,7 @@ standfirst: "'It starts with jasmine, it ends with the proletariat,' according t
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/green-tea.jpg
+image_position: bottom
 ---
 
 Security commentators are raising the alarm over what one Tufton Street think tank is calling Beijing's most insidious operation yet: organic loose-leaf green tea. According to the Albion Policy Foundation, the beverage is no longer simply a trendy alternative to a proper builder's brew, but a "carefully calibrated gateway drink designed to condition the British public into accepting collective ownership."
