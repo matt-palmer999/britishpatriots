@@ -4,6 +4,7 @@ title: "Security Experts Warn Green Tea Is 'A Cunning Gateway Beverage To Marxis
 standfirst: "'It starts with jasmine, it ends with the proletariat,' according to one Tufton Street think tank, which found builder's tea remains 'the only truly patriotic brew.'"
 category: China Watch
 author: Our Security Correspondent
+image: /assets/images/green-tea.jpg
 ---
 
 Security commentators are raising the alarm over what one Tufton Street think tank is calling Beijing's most insidious operation yet: organic loose-leaf green tea. According to the Albion Policy Foundation, the beverage is no longer simply a trendy alternative to a proper builder's brew, but a "carefully calibrated gateway drink designed to condition the British public into accepting collective ownership."
