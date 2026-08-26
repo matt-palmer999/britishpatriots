@@ -15,5 +15,5 @@ A council spokesperson said the camera scheme, installed at a cost of £280,000,
 
 Meanwhile, two doors down, the real Terry Ogden was captured on standard-definition CCTV casually strolling out of a newsagent with three packets of Fox's Chocolate Digestives.
 
-Ogden, approached regarding the newsagent incident, pointed out that police were welcome to check their own six-hour surveillance log, which placed him "standing very still in a jumper" at the exact time the biscuits went missing, and said he considered the matter "closed."
+Ogden, approached regarding the newsagent incident, pointed out that police were welcome to check their own six-hour surveillance log, which placed him "standing very still in Burton's shop window" at the exact time the biscuits went missing, and said he considered the matter "closed."
 
