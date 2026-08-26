@@ -4,6 +4,7 @@ title: "Newly Installed Council Facial Recognition Cameras Mistake Shop Mannequi
 standfirst: "The council's £280,000 high street camera system scored its first major breakthrough yesterday after cornering a dangerous suspect who turned out to be a hairless piece of fiberglass wearing nothing but Y-fronts and a cashmere jumper"
 category: Woke Watch
 author: Our Home Affairs Correspondent
+image: /assets/images/jumper-pants.jpg
 ---
 
 Facial recognition cameras newly installed along the high street as part of the council's town centre safety scheme flagged a "high-confidence match" to Terry Ogden, 54, a shoplifter well known to local officers for his distinctive shaved head, after locking onto a bald mannequin positioned in a menswear shop window.
