@@ -14,7 +14,7 @@ The Foundation's report sets out what it calls the three-stage "Red Brew" pathwa
 * **Stage two: the radicalisation of sharing the leaves.** Drinkers begin re-steeping the same pot three or four times, subtly normalising the idea that resources should be pooled and shared without additional transaction.
 * **Stage three: full allotment collectivism.** Within six months, the report warns, the subject is wearing linen trousers and demanding the parish allotment committee be run "on more equitable lines."
 
-"Make no mistake, this is a direct attack on British get-up-and-go," said Col. (Ret'd) Brian Fortescue-Hatch, speaking on a GB News panel convened to discuss the findings. "You think you're just settling your stomach, but the moment you sit down with a mug of sencha, you stop wanting to get ahead of the neighbours. You start wanting to discuss 'communal harmony' and 'sustainable allotment practice.' It's a liquid Trojan horse."
+"Make no mistake, this is a direct attack on British get-up-and-go," said Col. (Ret'd) Brian Fortescue-Hatch, speaking on a GB News panel convened to discuss the findings. "You think you're just settling your stomach, but the moment you sit down with a mug of green tea, you stop wanting to get ahead of the neighbours. You start wanting to discuss 'communal harmony' and 'sustainable allotment practice.' It's a liquid Trojan horse."
 
 Asked whether herbal infusions such as chamomile posed a similar risk, Fortescue-Hatch said continental teas only encouraged "slothful social-democratic tendencies," whereas genuine imported green tea carried "a direct, high-potency risk of hardline communism."
 
