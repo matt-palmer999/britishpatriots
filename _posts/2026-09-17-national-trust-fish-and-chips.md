@@ -4,6 +4,8 @@ title: "National Trust Renames Fish And Chips 'Sub-Aquatic Protein With Potato W
 standfirst: "A six-month 'linguistic impact audit' has decided the seaside classic must go, with 'battered' banned from menus in favour of 'textural wheat-based encapsulation layer.'"
 category: Woke Watch
 author: Our Heritage Correspondent
+image: /assets/images/sub-aquatic-protein.jpg
+image_position: center
 ---
 
 Visitors to National Trust properties face a culinary overhaul this autumn after the conservation charity announced it will rename traditional fish and chips across all 300 of its tearooms and cafes to ensure its menu remains "radically inclusive and non-triggering."
