@@ -25,5 +25,3 @@ The rebrand has already drawn sharp criticism from heritage campaigners and regu
 "It is absolute madness," said Sir Reginald Thorne, founder of the Save Our Chippy campaign group. "You go to a National Trust property to look at an Elizabethan manor and enjoy a piece of battered cod, not to decode a chemistry textbook. What's next? Renaming a cream tea a 'bovine emulsion spread on leavened dough'?"
 
 Despite the backlash, trust officials confirmed the menu roll-out will begin at flagship properties next month, accompanied by single-origin salt crystals and a newly created "Terminology Support Desk," staffed by volunteers trained to explain the new names to bemused visitors and issue laminated glossary cards translating each dish back into English on request.
-
-When asked if traditional Cornish pasties or Victoria sponges were next on the chopping block, a Trust spokesperson declined to comment, though rumours suggest pasties are currently being evaluated under the working title "Crimp-Folded Root Vegetable Envelopes."
