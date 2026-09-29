@@ -2,11 +2,13 @@ title: The Daily Patriot
 description: British News. Patriotic Voice.
 baseurl: ""
 url: "https://dailypatriot.co.uk"
+logo: /assets/images/logo-clean.png
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 10
 paginate_path: "/page:num/"
