@@ -4,6 +4,8 @@ title: "Cash-Strapped Council To Axe Bin Men And Force Residents To Load Own Rub
 standfirst: "Slough Borough Council's new 'Community-Integrated Refuse Logistics Initiative' will axe every frontline bin collector, leaving residents to hoist their own wheelie bins onto passing dustcarts and press the button themselves."
 category: Economy
 author: Our Local Government Correspondent
+image: /assets/images/bin-queue.webp
+image_position: center
 ---
 
 Residents will soon be expected to line up along their streets every Tuesday morning, manually hoist their own wheelie bins onto passing dustcarts, and operate the hydraulic lift mechanism themselves as part of a radical council cost-cutting scheme.
