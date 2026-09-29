@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cash-Strapped Council To Axe Bin Men And Force Residents To Load Own Rubbish Onto Bin Lorries"
-standfirst: "Slough Borough Council's new 'Community-Integrated Refuse Logistics Initiative' will axe every frontline bin collector, leaving residents to hoist their own wheelie bins onto passing bin lorries and press the button themselves."
+standfirst: "Slough Borough Council's new 'Streamlined Assisted Collection Kerbside Directive' will axe every frontline bin collector, leaving residents to hoist their own wheelie bins onto passing bin lorries and press the button themselves."
 category: Economy
 author: Our Local Government Correspondent
 image: /assets/images/bin-queue.webp
@@ -10,7 +10,7 @@ image_position: center
 
 Residents will soon be expected to line up along their streets every Tuesday morning, manually hoist their own wheelie bins onto passing lorries, and operate the hydraulic lift mechanism themselves as part of a radical council cost-cutting scheme.
 
-Under the new "Community-Integrated Refuse Logistics Initiative," Slough Borough Council will make all frontline refuse collectors redundant, retaining only the lorry drivers.
+Under the new "Streamlined Assisted Collection Kerbside Directive," Slough Borough Council will make all frontline refuse collectors redundant, retaining only the lorry drivers.
 
 To ensure the system functions smoothly, households must stand at the edge of their driveways, hook their bin onto the truck's mechanical arm as it passes, press the green cycle button, and return the empty container to their property immediately.
 
