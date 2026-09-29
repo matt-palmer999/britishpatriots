@@ -8,7 +8,7 @@ image: /assets/images/bin-queue.webp
 image_position: center
 ---
 
-Residents will soon be expected to line up along their streets every Tuesday morning, manually hoist their own wheelie bins onto passing dustcarts, and operate the hydraulic lift mechanism themselves as part of a radical council cost-cutting scheme.
+Residents will soon be expected to line up along their streets every Tuesday morning, manually hoist their own wheelie bins onto passing lorries, and operate the hydraulic lift mechanism themselves as part of a radical council cost-cutting scheme.
 
 Under the new "Community-Integrated Refuse Logistics Initiative," Slough Borough Council will make all frontline refuse collectors redundant, retaining only the lorry drivers.
 
