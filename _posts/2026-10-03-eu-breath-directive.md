@@ -8,16 +8,16 @@ author: Our Brussels Correspondent
 
 European Union lawmakers have overwhelmingly approved the Bedroom Respiratory Emissions Assessment & Tariff Harmonisation (BREATH) Directive, a historic leap forward for hyper-localised environmental bureaucracy.
 
-Starting next year, all new build properties across member states must install ceiling-mounted Sensor-Array Units (SAUs) directly above beds to track human exhalation and digestive emissions in real time. Existing homeowners will have until 2028 to retrofit their properties or face a non-compliance penalty known as the Involuntary Respiration Fine.
+Starting next year, all new build properties across member states must install ceiling-mounted sensors directly above beds to track human exhalation and digestive emissions in real time. Existing homeowners will have until 2030 to retrofit their properties or face a non-compliance penalty known as the Involuntary Respiration Fine.
 
 Under the new policy, citizens will be taxed on a tiered monthly scale according to their personal biological footprint:
 
-* **Standard Respiration Allowance:** 250 litres of CO2 per day. Exceeding this (for instance, by sleeping next to a partner, exercising indoors, or panicking about EU directives) triggers the Heavy Breather Surcharge. Citizens with seasonal allergies are strongly advised to purchase Emissions Offsets prior to pollen season.
+* **Standard Respiration Allowance:** 250 litres of CO2 per day. Exceeding this (for instance, by sleeping next to a partner or "exercising") triggers the Heavy Breather Surcharge. Citizens with seasonal allergies are strongly advised to purchase Emissions Offsets prior to pollen season.
 * **Digestive Emissions Tariff:** CH4 emissions will be calculated per micro-burst. Brussels officials confirmed that while "discreet" events carry a lower acoustic signature, the sensors use advanced infrared spectroscopy, ensuring no digestive output goes untaxed.
 
 "For too long, citizens have treated their own bedrooms as tax havens for unmetered biological gases," explained lead rapporteur Henrik Aalberg. "Whether you are having a deep dream, suffering from bronchitis, or enjoying a late-night cassoulet, the planet pays the price. Now, so will you."
 
-To ensure fairness, the EU confirmed that infants will receive a 10% Tantrum Exemption, while citizens who can prove they hold their breath for more than two minutes at a time will be eligible for a green tax rebate.
+To ensure fairness, the EU confirmed that infants will receive a 10% Tantrum Exemption, while gasping in shock on receiving a first bill will be classed as a separate Reactive Emission and charged accordingly.
 
 Reform UK spokesman Gavin Bacon described the directive as "Brussels reaching into the British bedroom," adding that he "will not be breathed on by Brussels, and certainly not taxed for the privilege."
 
