@@ -9,7 +9,7 @@ image: /assets/images/bedroom-sensor.webp
 
 European Union lawmakers have overwhelmingly approved the Bedroom Respiratory Emissions Assessment & Tariff Harmonisation (BREATH) Directive, a historic leap forward for hyper-localised environmental bureaucracy.
 
-Starting next year, all new build properties across member states must install ceiling-mounted sensors directly above beds to track human exhalation and digestive emissions in real time. Existing homeowners will have until 2030 to retrofit their properties or face a non-compliance penalty known as the Involuntary Respiration Fine.
+Starting next year, all new build properties across member states must install ceiling-mounted combined smoke, CO2 and methane detectors directly above beds to track human exhalation and digestive emissions in real time. Existing homeowners will have until 2030 to retrofit their properties or face a non-compliance penalty known as the Involuntary Respiration Fine.
 
 Under the new policy, citizens will be taxed on a tiered monthly scale according to their personal biological footprint:
 
@@ -22,6 +22,6 @@ To ensure fairness, the EU confirmed that infants will receive a 10% Tantrum Exe
 
 Reform UK spokesman Gavin Bacon described the directive as "Brussels reaching into the British bedroom," adding that he "will not be breathed on by Brussels, and certainly not taxed for the privilege."
 
-The Department for Business and Trade confirmed the directive "has no application in the United Kingdom whatsoever." However, one national housebuilder said it was already fitting the sensor units in all its new homes "to avoid building two types of ceiling," while a trade body noted that British firms have a long record of adopting EU standards they are not bound by, in order to keep selling into the bloc.
+The Department for Business and Trade confirmed the directive "has no application in the United Kingdom whatsoever." However, one national housebuilder said it was already fitting the units in all its new homes, because the only smoke alarm its supplier makes is the combined smoke, CO2 and methane model, adding that buyers who preferred not to be monitored could have the emissions function disabled as a premium downgrade. A trade body noted that British firms have a long record of following EU standards they are not bound by, usually because it is "cheaper than finding out whether they have to."
 
 Asked whether Britain would end up following the rules anyway, a government source said the UK would remain "fully independent" of the directive, "in exactly the way it remains independent of everything else the EU does."
