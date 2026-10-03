@@ -13,7 +13,7 @@ Starting next year, all new build properties across member states must install c
 
 Under the new policy, citizens will be taxed on a tiered monthly scale according to their personal biological footprint:
 
-* **Standard Respiration Allowance:** 250 litres of CO2 per day. Exceeding this (for instance, by sleeping next to a partner or "exercising") triggers the Heavy Breather Surcharge. Citizens with seasonal allergies are strongly advised to purchase Emissions Offsets prior to pollen season.
+* **Standard Respiration Allowance:** 250 litres of CO2 per day. Exceeding this (for instance, by sleeping next to a partner or "exercising in bed") triggers the Heavy Breather Surcharge. Citizens with seasonal allergies are strongly advised to purchase Emissions Offsets prior to pollen season.
 * **Digestive Emissions Tariff:** CH4 emissions will be calculated per micro-burst. Brussels officials confirmed that while "discreet" events carry a lower acoustic signature, the sensors use advanced infrared spectroscopy, ensuring no digestive output goes untaxed.
 
 "For too long, citizens have treated their own bedrooms as tax havens for unmetered biological gases," explained lead rapporteur Henrik Aalberg. "Whether you are having a deep dream, suffering from bronchitis, or enjoying a late-night cassoulet, the planet pays the price. Now, so will you."
