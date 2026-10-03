@@ -4,6 +4,7 @@ title: "EU Approves Directive Requiring Bedroom Sensors To Tax Citizens For Brea
 standfirst: 'The new "Heavy Breather Surcharge" will apply to anyone sleeping next to a partner, though Whitehall insists the directive has "no application whatsoever" in the UK.'
 category: EU Madness
 author: Our Brussels Correspondent
+image: /assets/images/bedroom-sensor.webp
 ---
 
 European Union lawmakers have overwhelmingly approved the Bedroom Respiratory Emissions Assessment & Tariff Harmonisation (BREATH) Directive, a historic leap forward for hyper-localised environmental bureaucracy.
