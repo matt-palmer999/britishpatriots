@@ -6,7 +6,7 @@ category: Politics
 author: Our Local Government Correspondent
 image: /assets/images/imperial-vs-metric.jpg
 image_height: 340px
-image_position: 30%
+image_position: "50% 30%"
 ---
 
 Little Diddling Borough Council has voted overwhelmingly to ban the metric system, declaring kilograms and metres to be "an un-British French invasion of our high streets," in a historic victory for common sense, nostalgia, and severe mental arithmetic.
