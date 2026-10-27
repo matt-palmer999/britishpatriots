@@ -4,6 +4,7 @@ title: "Borough Votes To Abandon Metric 'Nonsense' In Favour Of The Rod And The 
 standfirst: 'Little Diddling Borough Council has banned kilograms and metres as "an un-British French invasion," though Trading Standards says it has no power to do so.'
 category: Politics
 author: Our Local Government Correspondent
+image: /assets/images/imperial-vs-metric.jpg
 ---
 
 Little Diddling Borough Council has voted overwhelmingly to ban the metric system, declaring kilograms and metres to be "an un-British French invasion of our high streets," in a historic victory for common sense, nostalgia, and severe mental arithmetic.
