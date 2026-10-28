@@ -2,6 +2,7 @@
 layout: post
 title: "Security Experts Warn Green Tea Is 'A Cunning Gateway Beverage To Marxism'"
 standfirst: "'It starts with jasmine, it ends with the proletariat,' according to one Tufton Street think tank, which found builder's tea remains 'the only truly patriotic brew.'"
+description: "'It starts with jasmine, it ends with the proletariat,' according to one Tufton Street think tank, which found builder's tea remains 'the only truly patriotic brew.'"
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/green-tea.jpg

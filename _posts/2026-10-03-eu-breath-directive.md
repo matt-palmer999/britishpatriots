@@ -2,6 +2,7 @@
 layout: post
 title: "EU Approves Directive Requiring Bedroom Sensors To Tax Citizens For Breathing And Flatulence"
 standfirst: 'The new "Heavy Breather Surcharge" will apply to anyone sleeping next to a partner, though Whitehall insists the directive has "no application whatsoever" in the UK.'
+description: 'The new "Heavy Breather Surcharge" will apply to anyone sleeping next to a partner, though Whitehall insists the directive has "no application whatsoever" in the UK.'
 category: EU Madness
 author: Our Brussels Correspondent
 image: /assets/images/bedroom-sensor.webp

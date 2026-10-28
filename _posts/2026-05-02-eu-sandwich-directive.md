@@ -2,6 +2,7 @@
 layout: post
 title: "EU Directive Forces British Sandwich Makers To Include Minimum 30% Continental Filling By 2027"
 standfirst: "Brexit was supposed to protect the sandwich. It did not protect the sandwich."
+description: "Brexit was supposed to protect the sandwich. It did not protect the sandwich."
 category: EU Madness
 author: Our Brussels Correspondent
 image: /assets/images/sandwich.jpg

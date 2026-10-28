@@ -2,6 +2,7 @@
 layout: post
 title: "National Trust Gift Shop Replaces Union Jack Mugs With \"Flags of Our Colonial Shame\" Range"
 standfirst: "Visitors to Chartwell, Blenheim and seventeen other properties will no longer be able to purchase a mug depicting the flag of the nation whose heritage they have just paid fourteen pounds to visit."
+description: "Visitors to Chartwell, Blenheim and seventeen other properties will no longer be able to purchase a mug depicting the flag of the nation whose heritage they have just paid fourteen pounds to visit."
 category: Woke Watch
 image: /assets/images/gift-shop-mug.jpg
 author: Our Heritage Correspondent

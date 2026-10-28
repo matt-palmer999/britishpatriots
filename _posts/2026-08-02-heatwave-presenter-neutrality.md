@@ -2,6 +2,7 @@
 layout: post
 title: "BBC Weather Presenter Reprimanded For Sounding Too Concerned During Hottest Day On Record"
 standfirst: "Corporation guidelines require presenters to deliver record-breaking temperatures with the same tone used for drizzle."
+description: "Corporation guidelines require presenters to deliver record-breaking temperatures with the same tone used for drizzle."
 category: Woke Watch
 author: Our Media Correspondent
 image: /assets/images/heatwave.jpg

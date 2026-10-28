@@ -2,6 +2,7 @@
 layout: post
 title: "Newly Installed Council Facial Recognition Cameras Mistake Shop Mannequin For Notorious Bald Shoplifter"
 standfirst: "The council's £280,000 high street camera system scored its first major breakthrough yesterday after cornering a dangerous suspect who turned out to be a hairless piece of fiberglass wearing nothing but Y-fronts and a cashmere jumper"
+description: "The council's £280,000 high street camera system scored its first major breakthrough yesterday after cornering a dangerous suspect who turned out to be a hairless piece of fiberglass wearing nothing but Y-fronts and a cashmere jumper"
 category: Woke Watch
 author: Our Home Affairs Correspondent
 image: /assets/images/jumper-pants.jpg

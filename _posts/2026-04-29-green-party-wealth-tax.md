@@ -2,6 +2,7 @@
 layout: post
 title: "Green Party Wealth Tax Plan Would Force Britain's Richest To Leave. Nation Braces For Loss."
 standfirst: "The country faces an unprecedented shortage of people who own several houses."
+description: "The country faces an unprecedented shortage of people who own several houses."
 category: Politics
 author: Our Economics Correspondent
 image: /assets/images/wealth-tax.jpg

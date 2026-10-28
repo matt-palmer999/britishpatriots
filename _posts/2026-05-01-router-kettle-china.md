@@ -2,6 +2,7 @@
 layout: post
 title: "Your Router Is a Soldier in Xi Jinping's Army. So Is Your Kettle. Your fridge might be next."
 standfirst: "Ten nations confirm what the government hoped you'd never find out."
+description: "Ten nations confirm what the government hoped you'd never find out."
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/china-hack.png

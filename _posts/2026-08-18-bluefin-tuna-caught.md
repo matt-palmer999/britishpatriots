@@ -2,6 +2,7 @@
 layout: post
 title: "Bluefin Tuna Returns To North Sea For First Time In 90 Years, Is Immediately Caught"
 standfirst: "Conservationists hailed the sighting as a landmark moment for the species. Fishermen hailed it as lunch."
+description: "Conservationists hailed the sighting as a landmark moment for the species. Fishermen hailed it as lunch."
 category: Economy
 author: Our Fisheries Correspondent
 image: /assets/images/bluefin-tuna.jpg

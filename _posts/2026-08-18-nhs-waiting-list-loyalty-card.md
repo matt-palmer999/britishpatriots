@@ -2,6 +2,7 @@
 layout: post
 title: "NHS Trust Launches Waiting List 'Loyalty Card', Tenth Appointment Free"
 standfirst: "Patients who collect enough stamps before the card expires will be entitled to a free follow-up appointment, subject to a separate waiting list."
+description: "Patients who collect enough stamps before the card expires will be entitled to a free follow-up appointment, subject to a separate waiting list."
 category: Economy
 author: Our Health Correspondent
 image: /assets/images/NHS-Loyalty-card.jpg

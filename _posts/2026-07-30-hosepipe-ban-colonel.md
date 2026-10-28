@@ -2,6 +2,7 @@
 layout: post
 title: "Retired Colonel Brands Hosepipe Ban 'Chamberlain-Level Appeasement', Vows Covert Begonia Operation"
 standfirst: "Col. (Ret'd) Brian Fortescue-Hatch says he will not be lectured on drought management by a water company that loses a fifth of its own supply before it reaches a single tap."
+description: "Col. (Ret'd) Brian Fortescue-Hatch says he will not be lectured on drought management by a water company that loses a fifth of its own supply before it reaches a single tap."
 category: Woke Watch
 author: Our Environment Correspondent
 image: /assets/images/begonia.jpg

@@ -2,6 +2,7 @@
 layout: post
 title: "40,000-Year-Old Cave Paintings Discovered to Depict Britain's Borders, Historians Confirm"
 standfirst: "A landmark discovery in the Dordogne has sent shockwaves through the archaeological community and vindicated a great deal of common sense."
+description: "A landmark discovery in the Dordogne has sent shockwaves through the archaeological community and vindicated a great deal of common sense."
 category: Woke Watch
 author: Our Heritage Correspondent
 image: /assets/images/cave-paintings.jpg

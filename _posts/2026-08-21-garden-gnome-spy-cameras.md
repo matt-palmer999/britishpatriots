@@ -2,6 +2,7 @@
 layout: post
 title: "MI5 Investigates Chinese Garden Gnomes After Solar-Powered blinking Eyes Found To Contain Camera-Sized Cavities"
 standfirst: "Security services say they have no way of establishing how many of the gnomes, sold at garden centres nationwide since 2019, remain in British gardens undetected."
+description: "Security services say they have no way of establishing how many of the gnomes, sold at garden centres nationwide since 2019, remain in British gardens undetected."
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/garden-gnomes.jpg

@@ -2,6 +2,7 @@
 layout: post
 title: "Home Office Confirms Small Boat Arrivals Will Receive Complimentary Umbrella As Part Of New 'Welcome Experience'"
 standfirst: 'The department said the scheme was designed "to manage expectations about British weather," a phrase officials confirmed was not just about rain.'
+description: 'The department said the scheme was designed "to manage expectations about British weather," a phrase officials confirmed was not just about rain.'
 category: Politics
 author: Our Immigration Correspondent
 image: /assets/images/umbrella.jpg

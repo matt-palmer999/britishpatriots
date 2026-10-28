@@ -12,6 +12,10 @@ layout: default
       </span>
     </div>
 
+    {% if page.description %}
+    <p style="font-size:16px;line-height:1.6;color:#333;margin-bottom:8px;max-width:680px;">{{ page.description }}</p>
+    {% endif %}
+
     {% assign cat_posts = site.posts | where: "category", page.category %}
     {% if cat_posts.size == 0 %}
       <p style="color:var(--mid-grey);font-style:italic;">No articles in this category yet. We are monitoring the situation.</p>

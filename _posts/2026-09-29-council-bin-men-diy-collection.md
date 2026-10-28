@@ -2,6 +2,7 @@
 layout: post
 title: "Cash-Strapped Council To Axe Bin Men And Force Residents To Load Own Rubbish Onto Bin Lorries"
 standfirst: "Slough Borough Council's new 'Streamlined Assisted Collection Kerbside Directive' will axe every frontline bin collector, leaving residents to hoist their own wheelie bins onto passing bin lorries and press the button themselves."
+description: "Slough Borough Council's new 'Streamlined Assisted Collection Kerbside Directive' will axe every frontline bin collector, leaving residents to hoist their own wheelie bins onto passing bin lorries and press the button themselves."
 category: Economy
 author: Our Local Government Correspondent
 image: /assets/images/bin-queue.webp

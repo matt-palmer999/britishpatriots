@@ -2,6 +2,7 @@
 layout: post
 title: "National Trust Renames Fish And Chips 'Sub-Aquatic Protein With Potato Wedges' To Combat Offence"
 standfirst: "A six-month 'linguistic impact audit' has decided the seaside classic must go, with 'battered' banned from menus in favour of 'textural wheat-based encapsulation layer.'"
+description: "A six-month 'linguistic impact audit' has decided the seaside classic must go, with 'battered' banned from menus in favour of 'textural wheat-based encapsulation layer.'"
 category: Woke Watch
 author: Our Heritage Correspondent
 image: /assets/images/sub-aquatic-protein.jpg

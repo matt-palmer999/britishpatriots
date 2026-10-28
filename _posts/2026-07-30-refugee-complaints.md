@@ -2,6 +2,7 @@
 layout: post
 title: "Migrants Rescued Mid-Channel Reportedly Complain About Legroom, - EU Considers Legislation"
 standfirst: "In an increasingly competitive environment, you need to stand out"
+description: "In an increasingly competitive environment, you need to stand out"
 category: EU Madness
 author: Our Refugee Correspondent
 image: /assets/images/refugees.jpg

@@ -2,6 +2,7 @@
 layout: post
 title: "Emergency Alert System 'At Risk Of Overuse' After Nationwide BBQ Warning, Local Councils Queue Up For Access"
 standfirst: "The system that buzzed every phone in Britain over disposable barbecues has reportedly received several dozen requests from local authorities hoping for similarly dramatic reach."
+description: "The system that buzzed every phone in Britain over disposable barbecues has reportedly received several dozen requests from local authorities hoping for similarly dramatic reach."
 category: Politics
 author: Our Home Affairs Correspondent
 image: /assets/images/emergency-bbq.jpg
