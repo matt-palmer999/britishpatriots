@@ -10,7 +10,7 @@ layout: default
       By {{ page.author | default: "Our Correspondent" }} &middot; {{ page.date | date: "%d %B %Y" }} &middot; {{ page.category }}
     </div>
     {% if page.image %}
-    <img src="{{ page.image }}" alt="{{ page.title }}" style="width:100%;height:auto;display:block;margin-bottom:28px;border-bottom:3px solid var(--gold-light);">
+    <img src="{{ page.image }}" alt="{{ page.image_alt | default: page.title | escape }}" style="width:100%;height:auto;display:block;margin-bottom:28px;border-bottom:3px solid var(--gold-light);">
     {% endif %}
     <div style="font-size:17px;line-height:1.75;color:#222;">
       {{ content }}

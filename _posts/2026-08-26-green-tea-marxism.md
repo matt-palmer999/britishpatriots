@@ -6,6 +6,7 @@ description: "'It starts with jasmine, it ends with the proletariat,' according 
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/green-tea.jpg
+image_alt: "A cup of green tea labelled as police evidence, 'Exhibit GRN-041-A', on a desk under crime scene tape, next to a mug of dark tea."
 image_position: bottom
 ---
 

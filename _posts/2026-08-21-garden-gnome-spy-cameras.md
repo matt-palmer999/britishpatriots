@@ -6,6 +6,7 @@ description: "Security services say they have no way of establishing how many of
 category: China Watch
 author: Our Security Correspondent
 image: /assets/images/garden-gnomes.jpg
+image_alt: "Three garden gnomes in red, purple and green hats stand in a row on a lawn at dusk, backs to the camera, facing a lit country house."
 ---
 
 MI5 has opened a review into a consignment of Chinese-manufactured garden gnomes after a random customs sample found the ornaments' solar-powered blinking eyes — marketed as a novelty feature that activates when movement is detected — concealed a small cavity behind each pupil "consistent with, though not confirmed as," a camera housing and sim card slot.

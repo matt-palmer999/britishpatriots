@@ -6,6 +6,7 @@ description: "The country faces an unprecedented shortage of people who own seve
 category: Politics
 author: Our Economics Correspondent
 image: /assets/images/wealth-tax.jpg
+image_alt: "A well-dressed family strolls along a Mayfair street while a line of labourers in worn clothes carry their heavy trunks and luggage behind them."
 ---
 
 Britain is facing a social emergency after the Green Party unveiled plans for a wealth tax that experts warn could drive the nation's richest individuals abroad, potentially leaving entire postcode areas of Surrey without anyone to complain about inheritance tax at dinner parties.

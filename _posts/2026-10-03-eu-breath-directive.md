@@ -6,6 +6,7 @@ description: 'The new "Heavy Breather Surcharge" will apply to anyone sleeping n
 category: EU Madness
 author: Our Brussels Correspondent
 image: /assets/images/bedroom-sensor.webp
+image_alt: "A black ceiling sensor with a glowing red lens hangs above a bed where a couple lie asleep."
 ---
 
 European Union lawmakers have overwhelmingly approved the Bedroom Respiratory Emissions Assessment & Tariff Harmonisation (BREATH) Directive, a historic leap forward for hyper-localised environmental bureaucracy.

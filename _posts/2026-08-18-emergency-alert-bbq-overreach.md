@@ -6,6 +6,7 @@ description: "The system that buzzed every phone in Britain over disposable barb
 category: Politics
 author: Our Home Affairs Correspondent
 image: /assets/images/emergency-bbq.jpg
+image_alt: "A hand holds up a phone showing an emergency alert banning instant foil barbecues in the park, in front of a disposable barbecue of charred sausages on a picnic table."
 ---
 
 Every mobile phone in the country sounded the national emergency alarm on Friday, vibrating in unison across shopping centres, trains and at least one funeral, to warn the public against the use of disposable barbecues. The system, designed for situations involving imminent danger to life, has not previously been used to discourage a particular type of grill.

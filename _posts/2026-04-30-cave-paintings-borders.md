@@ -6,6 +6,7 @@ description: "A landmark discovery in the Dordogne has sent shockwaves through t
 category: Woke Watch
 author: Our Heritage Correspondent
 image: /assets/images/cave-paintings.jpg
+image_alt: "Torchlit cave wall painted with prehistoric figures gathered at a wooden fence, with a herd of woolly mammoths beyond it."
 ---
 
 Researchers examining a previously unstudied section of the Lascaux cave complex have confirmed that paintings dating back approximately 40,000 years appear to depict a clearly defined border wall, a points-based mammoth entry system, and what experts are describing as "an early iteration of the hostile environment policy."

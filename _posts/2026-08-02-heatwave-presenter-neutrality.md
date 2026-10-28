@@ -6,6 +6,7 @@ description: "Corporation guidelines require presenters to deliver record-breaki
 category: Woke Watch
 author: Our Media Correspondent
 image: /assets/images/heatwave.jpg
+image_alt: "A worried-looking TV presenter stands in a news studio in front of a screen showing 43.2C in London and an extreme heatwave warning."
 ---
 
 BBC weather presenter Freya Coulson was formally spoken to by an editor after her voice "audibly wavered" while reading out a temperature of 43.2°C on Tuesday's forecast, the hottest ever recorded in the UK. The single complaint that triggered the review came from a retired amateur weather-watcher in Surrey, who described her tone as "borderline alarmist" and "not what I tune in for."

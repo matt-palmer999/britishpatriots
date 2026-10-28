@@ -6,6 +6,7 @@ description: 'The department said the scheme was designed "to manage expectation
 category: Politics
 author: Our Immigration Correspondent
 image: /assets/images/umbrella.jpg
+image_alt: "A black umbrella marked 'UK Government' on a wooden desk beside a laminated weather procedures guide showing sunny, overcast, windy and rainy icons."
 ---
 
 The Home Office has confirmed that small boat arrivals processed at reception centres will now be issued a complimentary umbrella as part of a new "Welcome Experience," intended, according to the department, "to manage expectations about British weather." A spokesperson said the initiative reflected the department's wider commitment to "getting the basics right."

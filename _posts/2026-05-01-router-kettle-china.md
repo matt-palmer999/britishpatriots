@@ -5,7 +5,8 @@ standfirst: "Ten nations confirm what the government hoped you'd never find out.
 description: "Ten nations confirm what the government hoped you'd never find out."
 category: China Watch
 author: Our Security Correspondent
-image: /assets/images/china-hack.png
+image: /assets/images/china-hack.jpg
+image_alt: "A bright red kettle printed with the stars of the Chinese flag sits on a wooden worktop next to a mug of tea with an English Breakfast tea bag."
 ---
 
 They came for your router first. You didn't notice because your Netflix still worked. Then they came for your kettle. You are still able to make tea.

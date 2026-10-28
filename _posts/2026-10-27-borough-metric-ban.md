@@ -6,6 +6,7 @@ description: 'Little Diddling Borough Council has banned kilograms and metres as
 category: Politics
 author: Our Local Government Correspondent
 image: /assets/images/imperial-vs-metric.jpg
+image_alt: "A council leader in a chain of office holds a brass yardstick while a baker stands beside a brass balance scale with a loaf on it, as an elderly man watches from a bench."
 image_height: 340px
 image_position: "50% 30%"
 ---

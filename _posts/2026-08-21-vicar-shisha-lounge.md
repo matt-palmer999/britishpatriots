@@ -6,6 +6,7 @@ description: "Owner Tariq Mahmood said he would like to clarify, for the Reveren
 category: Politics
 author: Our Home Affairs Correspondent
 image: /assets/images/shisha-pipe.jpg
+image_alt: "A warmly lit village shop front called 'The Velvet Pipe' on a stone high street at dusk, with a chalkboard sign outside and a church spire behind."
 ---
 
 The Alderton Parish Council approved a late-night licence for The Velvet Pipe, a proposed shisha lounge in the former village bakery on the High Street, by four votes to three on Tuesday, after two hours of discussion.

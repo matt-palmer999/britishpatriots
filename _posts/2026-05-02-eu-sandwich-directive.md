@@ -6,6 +6,7 @@ description: "Brexit was supposed to protect the sandwich. It did not protect th
 category: EU Madness
 author: Our Brussels Correspondent
 image: /assets/images/sandwich.jpg
+image_alt: "A ham and lettuce sandwich topped with a small Union Jack flag on a white plate, beside a pint of beer on a pub table."
 footnote: "Directive 2026/1147/EU is available in full on the European Commission website. It is 340 pages long. Page 287 contains a footnote about triangular versus rectangular cutting that we are still processing."
 ---
 

@@ -6,6 +6,7 @@ description: "In an increasingly competitive environment, you need to stand out"
 category: EU Madness
 author: Our Refugee Correspondent
 image: /assets/images/refugees.jpg
+image_alt: "A smartly uniformed steward offers meal trays to people in lifejackets aboard an inflatable boat at sea, with a cargo ship and a ferry in the distance."
 ---
 
 Increasing numbers of migrants crossing the Channel are making complaints about overcrowding and reduced legroom according to representatives from Dover-based refugee charities. Due to the much-reduced number of successful crossings more people are being squeezed into each boat, this has also resulted in complaints about hand luggage storage.

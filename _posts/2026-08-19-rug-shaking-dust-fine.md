@@ -6,6 +6,7 @@ description: "Brenda Higgins, 74, has shaken her hallway rug out of the same win
 category: Woke Watch
 author: Our Environment Correspondent
 image: /assets/images/rug-beater.jpg
+image_alt: "An elderly woman in a patterned cardigan stands at her cottage door holding a wicker rug beater in one hand and an official letter in the other, with a rolled-up rug at her feet."
 ---
 
 A DORSET grandmother has been hit with a £340 fine and a formal warning from council "dust officers" after being caught shaking her hallway runner out of a second-floor window, in what campaigners are calling the latest front in the so-called war on tradition.

@@ -6,6 +6,7 @@ description: "Col. (Ret'd) Brian Fortescue-Hatch says he will not be lectured on
 category: Woke Watch
 author: Our Environment Correspondent
 image: /assets/images/begonia.jpg
+image_alt: "A lone flowering begonia in a terracotta pot on a garden table at night, lit by a beam of light from a curtained patio window."
 ---
 
 A hosepipe ban announced this week across three counties has been met with fierce resistance from at least one resident, after Col. (Ret'd) Brian Fortescue-Hatch, 71, declared the restriction "the sort of thing Chamberlain would have signed" and vowed to continue watering his begonias "under cover of darkness if necessary."

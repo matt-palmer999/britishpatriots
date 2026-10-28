@@ -6,6 +6,7 @@ description: "The change would reduce fuel consumption by 14%, a saving Ryanair 
 category: Economy
 author: Our Aviation Correspondent
 image: /assets/images/tray-table.jpg
+image_alt: "A wary airline passenger wearing a yellow oxygen mask sits behind a tray table holding a card reader and a battery pack."
 ---
 
 DUBLIN — Ryanair has sparked fresh controversy after announcing plans to introduce "low-pressure" cabins on short-haul routes, a move the airline claims will drastically reduce passenger stress by rendering everyone on board physically incapable of moving.

@@ -6,6 +6,7 @@ description: "A six-month 'linguistic impact audit' has decided the seaside clas
 category: Woke Watch
 author: Our Heritage Correspondent
 image: /assets/images/sub-aquatic-protein.jpg
+image_alt: "One small piece of battered fish, a single chip, a syringe and tiny smears of sauce arranged on an enormous white plate in a tearoom."
 image_position: center
 ---
 

@@ -5,6 +5,7 @@ standfirst: "Visitors to Chartwell, Blenheim and seventeen other properties will
 description: "Visitors to Chartwell, Blenheim and seventeen other properties will no longer be able to purchase a mug depicting the flag of the nation whose heritage they have just paid fourteen pounds to visit."
 category: Woke Watch
 image: /assets/images/gift-shop-mug.jpg
+image_alt: "A gift shop shelf with a cream mug printed 'Flags of our Colonial Shame' beside a mug decorated with a Union Jack."
 author: Our Heritage Correspondent
 ---
 

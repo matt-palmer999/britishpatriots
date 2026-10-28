@@ -6,6 +6,7 @@ description: "The council's £280,000 high street camera system scored its first
 category: Woke Watch
 author: Our Home Affairs Correspondent
 image: /assets/images/jumper-pants.jpg
+image_alt: "A bald mannequin in a cashmere jumper and white briefs strikes a running pose in a menswear shop window, as a CCTV camera on a lamppost watches the high street."
 ---
 
 Facial recognition cameras newly installed along the high street as part of the council's town centre safety scheme flagged a "high-confidence match" to Terry Ogden, 54, a shoplifter well known to local officers for his distinctive shaved head, after locking onto a bald mannequin positioned in a menswear shop window.

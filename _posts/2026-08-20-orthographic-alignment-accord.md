@@ -6,6 +6,7 @@ description: "Worcestershire Sauce will be rebranded 'Wooster-sher Sauce' for EU
 category: EU Madness
 author: Our Trade Correspondent
 image: /assets/images/orange-cheese.jpg
+image_alt: "A gloved hand sticks an EU-flagged label reading 'Orange Lester Cheese' over the original 'Red Leicester Cheese' label on a large cheese in a warehouse."
 ---
 
 The European Commission has unveiled draft legislation targeting UK food and drink exports, intended to eliminate what it describes as "unnecessary lingual stress" caused by traditional British branding on continental supermarket shelves.

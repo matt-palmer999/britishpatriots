@@ -6,6 +6,7 @@ description: "Patients who collect enough stamps before the card expires will be
 category: Economy
 author: Our Health Correspondent
 image: /assets/images/NHS-Loyalty-card.jpg
+image_alt: "An NHS Outpatient Loyalty Card with six of ten appointment stamps filled in, propped on a waiting-room chair next to a bottle of Pepsi and a packet of Walkers crisps."
 ---
 
 An NHS trust has begun issuing patients on its outpatient waiting list with a laminated loyalty card, sponsored by the soft drinks brand Pepsi, awarding one stamp for every missed target. Five stamps earns a family-sized share bag of Walkers crisps; ten unlocks a free follow-up consultation, plus a two-litre bottle of full-sugar Pepsi "as a thank you for sticking with us." A trust spokesperson described the sponsorship as "a sensible way to fund the scheme at no cost to the taxpayer".

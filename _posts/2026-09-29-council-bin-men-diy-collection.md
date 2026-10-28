@@ -6,6 +6,7 @@ description: "Slough Borough Council's new 'Streamlined Assisted Collection Kerb
 category: Economy
 author: Our Local Government Correspondent
 image: /assets/images/bin-queue.webp
+image_alt: "Residents in dressing gowns and pyjamas stand in a line along a terraced street, each beside a wheelie bin, as a dustcart with flashing lights approaches."
 image_position: center
 ---
 
